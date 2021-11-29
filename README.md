@@ -1,14 +1,15 @@
-Ž©ì•i‚ÌƒhƒLƒ…ƒƒ“ƒg
-|repository|“à—e|
-=================
-|libproxydynlang|CŒ¾Œê‚©‚ç“®“IƒvƒƒOƒ‰ƒ€(perl,python,ruby,lua“™)“à‚ÌŠÖ”‹y‚Ñƒƒ]ƒbƒh‚ÌŒÄ‚Ño‚µƒ‰ƒCƒuƒ‰ƒŠ|
-|proxyjnitest   |libproxydynlang‚ÌtestƒvƒƒOƒ‰ƒ€                                                        |
-|libproxyjni    |CŒ¾Œê‚©‚çjavaƒNƒ‰ƒX“à‚Ìƒƒ]ƒbƒh‚ÌŒÄ‚Ño‚µƒ‰ƒCƒuƒ‰ƒŠ                                    |
-|proxyjnitest   |libproxyjni‚ÌtestƒvƒƒOƒ‰ƒ€                                                            |
-|jniscrteng     |java‚ÌScriptEngine‚ð—˜—p‚µ‚ÄA“®“IƒvƒƒOƒ‰ƒ€(jruby,jython3,graaljs“™)“à‚ÌŠÖ”‹y‚Ñƒƒ]ƒbƒh‚ÌŒÄ‚Ño‚µƒ‰ƒCƒuƒ‰ƒŠ|
-|mongodbtool    |mongoDB‚ÉAcommons-math3‚ð—˜—p‚µ‚ÄA•ª•z•\‚Ìƒf[ƒ^‚ðmongodb‚ÉŠi”[ƒc[ƒ‹B              |
-|distgraph      |commons-math3‚ð—˜—p‚µ‚ÄAŠe•ª•z‚ÌƒOƒ‰ƒt‚ð•\Ž¦‚·‚éƒvƒƒOƒ‰ƒ€                            |
-|javatool       |cŒ¾Œê‚©‚çJNIƒ‰ƒCƒuƒ‰ƒŠ‚ðŽg—p‚µ‚½ƒc[ƒ‹W                                               |
-|luatool        |cŒ¾Œê‚©‚çlua‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚ðŽg—p‚µ‚½ƒc[ƒ‹W                                             |
-|pythontool     |cŒ¾Œê‚©‚çpython‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚ðŽg—p‚µ‚½ƒc[ƒ‹W                                          |
-|rubytool       |cŒ¾Œê‚©‚çruby‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚ðŽg—p‚µ‚½ƒc[ƒ‹W                                            |
+è‡ªä½œå“ã®ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆ  
+
+|repository|å†…å®¹|  
+|----------|----|
+|libproxydynlang|Cè¨€èªžã‹ã‚‰å‹•çš„ãƒ—ãƒ­ã‚°ãƒ©ãƒ (perl,python,ruby,luaç­‰)å†…ã®é–¢æ•°åŠã³ãƒ¡ã‚¾ãƒƒãƒ‰ã®å‘¼ã³å‡ºã—ãƒ©ã‚¤ãƒ–ãƒ©ãƒª|
+|proxyjnitest   |libproxydynlangã®testãƒ—ãƒ­ã‚°ãƒ©ãƒ                                                         |
+|libproxyjni    |Cè¨€èªžã‹ã‚‰javaã‚¯ãƒ©ã‚¹å†…ã®ãƒ¡ã‚¾ãƒƒãƒ‰ã®å‘¼ã³å‡ºã—ãƒ©ã‚¤ãƒ–ãƒ©ãƒª                                    |
+|proxyjnitest   |libproxyjniã®testãƒ—ãƒ­ã‚°ãƒ©ãƒ                                                             |
+|jniscrteng     |javaã®ScriptEngineã‚’åˆ©ç”¨ã—ã¦ã€å‹•çš„ãƒ—ãƒ­ã‚°ãƒ©ãƒ (jruby,jython3,graaljsç­‰)å†…ã®é–¢æ•°åŠã³ãƒ¡ã‚¾ãƒƒãƒ‰ã®å‘¼ã³å‡ºã—ãƒ©ã‚¤ãƒ–ãƒ©ãƒª|
+|mongodbtool    |mongoDBã«ã€commons-math3ã‚’åˆ©ç”¨ã—ã¦ã€åˆ†å¸ƒè¡¨ã®ãƒ‡ãƒ¼ã‚¿ã‚’mongodbã«æ ¼ç´ãƒ„ãƒ¼ãƒ«ã€‚              |
+|distgraph      |commons-math3ã‚’åˆ©ç”¨ã—ã¦ã€å„åˆ†å¸ƒã®ã‚°ãƒ©ãƒ•ã‚’è¡¨ç¤ºã™ã‚‹ãƒ—ãƒ­ã‚°ãƒ©ãƒ                             |
+|javatool       |cè¨€èªžã‹ã‚‰JNIãƒ©ã‚¤ãƒ–ãƒ©ãƒªã‚’ä½¿ç”¨ã—ãŸãƒ„ãƒ¼ãƒ«é›†                                               |
+|luatool        |cè¨€èªžã‹ã‚‰luaã®ãƒ©ã‚¤ãƒ–ãƒ©ãƒªã‚’ä½¿ç”¨ã—ãŸãƒ„ãƒ¼ãƒ«é›†                                             |
+|pythontool     |cè¨€èªžã‹ã‚‰pythonã®ãƒ©ã‚¤ãƒ–ãƒ©ãƒªã‚’ä½¿ç”¨ã—ãŸãƒ„ãƒ¼ãƒ«é›†                                          |
+|rubytool       |cè¨€èªžã‹ã‚‰rubyã®ãƒ©ã‚¤ãƒ–ãƒ©ãƒªã‚’ä½¿ç”¨ã—ãŸãƒ„ãƒ¼ãƒ«é›†                                            |
