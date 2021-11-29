@@ -1,7 +1,7 @@
 javatool
 =======
 
-* ƒc[ƒ‹‚ÌŽí—Þ
+* ツール集
   - [dspfields](dspfields.md)
   - [dspjarfileinfo](dspjarfileinfo.md)
   - [dspmethods](dspmethods.md)
