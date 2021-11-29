@@ -1,6 +1,6 @@
 luatool
 =======
 
-* ツール集
+* ツールの種類
   - [dspluainfo](dspluainfo.md)
   - [dspdbginfo](dspdbginfo.md)
