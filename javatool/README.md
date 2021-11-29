@@ -1,7 +1,7 @@
 javatool
 =======
 
-* ツール集
+* ツールの種類
   - [dspfields](dspfields.md)
   - [dspjarfileinfo](dspjarfileinfo.md)
   - [dspmethods](dspmethods.md)
