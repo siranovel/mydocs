@@ -1,59 +1,59 @@
 mongodbtool
 ===========
-commons-math3‚ğ—˜—p‚µ‚ÄA•ª•z•\‚Ìƒf[ƒ^‚ğmongodb‚ÉŠi”[ƒc[ƒ‹‚Å‚·B
+commons-math3ã‚’åˆ©ç”¨ã—ã¦ã€åˆ†å¸ƒè¡¨ã®ãƒ‡ãƒ¼ã‚¿ã‚’mongodbã«æ ¼ç´ãƒ„ãƒ¼ãƒ«ã§ã™ã€‚
 
-* ƒc[ƒ‹‚Ìí—Ş
+* ãƒ„ãƒ¼ãƒ«ã®ç¨®é¡
   - crtdist
-    - [crtndist](crtndist)
-    - [crtlogndist](crtlogndist)
-    - [crttdist](crttdist)
-    - [crtfdist](crtfdist)
-    - [crtparetodist](crtparetodist)
-    - [crtzipfdist](crtzipfdist)
-    - [crtbebidist](crtbebidist)
-    - [crtchi2dist](crtchi2dist)
-    - [crtexpdist](crtexpdist)
-    - [crtbidist](crtbidist)
-    - [crtgmdist](crtgmdist)
-    - [crtgudist](crtgudist)
-    - [crthgedist](crthgedist)
-    - [crtgndist](crtgndist)
-    - [crtladist](crtladist)
-    - [crtledist](crtledist)
-    - [crtlogdist](crtlogdist)
-    - [crtngdist](crtngdist)
-    - [crtpodist](crtpodist)
-    - [crttgldist](crttgldist)
-    - [crtwbldist](crtwbldist)
-    - [crtcauchydist](crtcauchydist)
-  - [dropdist](dropdist)
-  - [dspdbs](dspdbs)
-  - [dspdistdbs](dspdistdbs)
-  - [dspdistdts](dspdistdts)
+    - [crtndist](crtndist.md)
+    - [crtlogndist](crtlogndist.md)
+    - [crttdist](crttdist.md)
+    - [crtfdist](crtfdist.md)
+    - [crtparetodist](crtparetodist.md)
+    - [crtzipfdist](crtzipfdist.md)
+    - [crtbebidist](crtbebidist.md)
+    - [crtchi2dist](crtchi2dist.md)
+    - [crtexpdist](crtexpdist.md)
+    - [crtbidist](crtbidist.md)
+    - [crtgmdist](crtgmdist.md)
+    - [crtgudist](crtgudist.md)
+    - [crthgedist](crthgedist.md)
+    - [crtgndist](crtgndist.md)
+    - [crtladist](crtladist.md)
+    - [crtledist](crtledist.md)
+    - [crtlogdist](crtlogdist.md)
+    - [crtngdist](crtngdist.md)
+    - [crtpodist](crtpodist.md)
+    - [crttgldist](crttgldist.md)
+    - [crtwbldist](crtwbldist.md)
+    - [crtcauchydist](crtcauchydist.md)
+  - [dropdist](dropdist.md)
+  - [dspdbs](dspdbs.md)
+  - [dspdistdbs](dspdistdbs.md)
+  - [dspdistdts](dspdistdts.md)
 
-* ƒe[ƒuƒ‹ˆê——  
-  DataBase–¼:distdb  
+* ãƒ†ãƒ¼ãƒ–ãƒ«ä¸€è¦§  
+  DataBaseå:distdb  
   
-  |ƒe[ƒuƒ‹–¼Ì              |ƒRƒŒƒNƒVƒ‡ƒ“–¼|
+  |ãƒ†ãƒ¼ãƒ–ãƒ«åç§°              |ã‚³ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³å|
   |--------------------------|--------------|
-  |•W€³‹K•ª•z•\            |norminv       |
-  |‘Î”³‹K•ª•z•\            |lognorminv    |
-  |T•ª•z•\                   |tinv          |
-  |F•ª•z•\                   |finv          |
-  |ƒpƒŒƒbƒg•ª•z•\            |gpinv         |
-  |Zipf•ª•z•\                |zipfinv       |
-  |ƒx[ƒ^2€•ª•z•\           |bebi          |
-  |ŠK‚Qæ•ª•z•\              |chi2inv       |
-  |w”•ª•z•\                |expinv        |
-  |‚Q€•ª•z•\                |biinv         |
-  |ƒ¡•ª•z•\                  |gminv         |
-  |ƒKƒ“ƒxƒ‹•ª•z•\            |guinv         |
-  |’´Šô‰½•ª•z•\              |hgeinv        |
-  |ƒXƒ~ƒ‹ƒmƒtEƒOƒ‰ƒuƒX•ª•z•\|gninv         |
-  |ƒ‰ƒvƒ‰ƒX•ª•z•\            |lainv         |
-  |ƒŒƒ”ƒF•ª•z•\              |leinv         |
-  |’‡ã•ª•z•\                |nginv         |
-  |ƒ|ƒCƒ\ƒ“•ª•z•\            |poinv         |
-  |ƒgƒ‰ƒCƒAƒ“ƒOƒ‹•ª•z•\      |tglinv        |
-  |ƒƒCƒuƒ‹•ª•z•\            |wblinv        |
-  |ƒR[ƒV[•ª•z•\            |cauchyinv     |
+  |æ¨™æº–æ­£è¦åˆ†å¸ƒè¡¨            |norminv       |
+  |å¯¾æ•°æ­£è¦åˆ†å¸ƒè¡¨            |lognorminv    |
+  |Tåˆ†å¸ƒè¡¨                   |tinv          |
+  |Fåˆ†å¸ƒè¡¨                   |finv          |
+  |ãƒ‘ãƒ¬ãƒƒãƒˆåˆ†å¸ƒè¡¨            |gpinv         |
+  |Zipfåˆ†å¸ƒè¡¨                |zipfinv       |
+  |ãƒ™ãƒ¼ã‚¿2é …åˆ†å¸ƒè¡¨           |bebi          |
+  |éšï¼’ä¹—åˆ†å¸ƒè¡¨              |chi2inv       |
+  |æŒ‡æ•°åˆ†å¸ƒè¡¨                |expinv        |
+  |ï¼’é …åˆ†å¸ƒè¡¨                |biinv         |
+  |Î“åˆ†å¸ƒè¡¨                  |gminv         |
+  |ã‚¬ãƒ³ãƒ™ãƒ«åˆ†å¸ƒè¡¨            |guinv         |
+  |è¶…å¹¾ä½•åˆ†å¸ƒè¡¨              |hgeinv        |
+  |ã‚¹ãƒŸãƒ«ãƒãƒ•ãƒ»ã‚°ãƒ©ãƒ–ã‚¹åˆ†å¸ƒè¡¨|gninv         |
+  |ãƒ©ãƒ—ãƒ©ã‚¹åˆ†å¸ƒè¡¨            |lainv         |
+  |ãƒ¬ãƒ´ã‚§åˆ†å¸ƒè¡¨              |leinv         |
+  |ä»²ä¸Šåˆ†å¸ƒè¡¨                |nginv         |
+  |ãƒã‚¤ã‚½ãƒ³åˆ†å¸ƒè¡¨            |poinv         |
+  |ãƒˆãƒ©ã‚¤ã‚¢ãƒ³ã‚°ãƒ«åˆ†å¸ƒè¡¨      |tglinv        |
+  |ãƒ¯ã‚¤ãƒ–ãƒ«åˆ†å¸ƒè¡¨            |wblinv        |
+  |ã‚³ãƒ¼ã‚·ãƒ¼åˆ†å¸ƒè¡¨            |cauchyinv     |
