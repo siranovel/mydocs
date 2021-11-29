@@ -1,19 +1,19 @@
 pythontool
 ==========
 
-* ÉcÅ[ÉãÇÃéÌóﬁ
-  - [pyimpinfo](pyimpinfo)
-  - [pyosinfo](pyosinfo)
-  - [pysiteinfo](pysiteinfo)
-  - [pysysconfiginfo](pysysconfiginfo)
-  - [pysysinfo](pysysinfo)
-  - [pytarinfo](pytarinfo)
-  - [pypilinfo](pypilinfo)
+* „ÉÑ„Éº„É´„ÅÆÁ®ÆÈ°û
+  - [pyimpinfo](pyimpinfo.md)
+  - [pyosinfo](pyosinfo.md)
+  - [pysiteinfo](pysiteinfo.md)
+  - [pysysconfiginfo](pysysconfiginfo.md)
+  - [pysysinfo](pysysinfo.md)
+  - [pytarinfo](pytarinfo.md)
+  - [pypilinfo](pypilinfo.md)
   - pyrpminfo
-    - [pyrpminfo](pyrpminfo)
-    - [pyrpmtaginfo](pyrpmtaginfo)
+    - [pyrpminfo](pyrpminfo.md)
+    - [pyrpmtaginfo](pyrpmtaginfo.md)
   - pyclz
     - pyclz2
     - pyclz3
-  - [pypass](pypass)
+  - [pypass](pypass.md)
   

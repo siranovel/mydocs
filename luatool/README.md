@@ -1,6 +1,6 @@
 luatool
 =======
 
-* ƒc[ƒ‹‚Ìí—Ş
-  - [dspluainfo](dspluainfo)
-  - [dspdbginfo](dspdbginfo)
+* ãƒ„ãƒ¼ãƒ«ã®ç¨®é¡
+  - [dspluainfo](dspluainfo.md)
+  - [dspdbginfo](dspdbginfo.md)
