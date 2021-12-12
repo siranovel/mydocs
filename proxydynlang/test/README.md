@@ -1,15 +1,15 @@
-# ŠT—v
-libproxydynlang‚ÌtestƒvƒƒOƒ‰ƒ€‚Å‚·B
+# æ¦‚è¦
+libproxydynlangã®testãƒ—ãƒ­ã‚°ãƒ©ãƒ ã§ã™ã€‚
 
-# ƒeƒXƒg“à—e
-* ŠÖ”ƒeƒXƒg
-  * ƒpƒ‰ƒ[ƒ^ƒeƒXƒg
-  * –ß‚è’lƒeƒXƒg
-* Staticƒƒ]ƒbƒgƒeƒXƒg
-  * ƒpƒ‰ƒ[ƒ^ƒeƒXƒg
-  * –ß‚è’lƒeƒXƒg
-* Objectƒƒ]ƒbƒhƒeƒXƒg
-  * ƒpƒ‰ƒ[ƒ^ƒeƒXƒg
-  * –ß‚è’lƒeƒXƒg
-* ƒCƒ“ƒXƒ^ƒ“ƒXƒeƒXƒg
-* ƒXƒŒƒbƒhƒeƒXƒg
+# ãƒ†ã‚¹ãƒˆå†…å®¹
+* é–¢æ•°ãƒ†ã‚¹ãƒˆ
+  * ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ãƒ†ã‚¹ãƒˆ
+  * æˆ»ã‚Šå€¤ãƒ†ã‚¹ãƒˆ
+* Staticãƒ¡ã‚¾ãƒƒãƒˆãƒ†ã‚¹ãƒˆ
+  * ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ãƒ†ã‚¹ãƒˆ
+  * æˆ»ã‚Šå€¤ãƒ†ã‚¹ãƒˆ
+* Objectãƒ¡ã‚¾ãƒƒãƒ‰ãƒ†ã‚¹ãƒˆ
+  * ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ãƒ†ã‚¹ãƒˆ
+  * æˆ»ã‚Šå€¤ãƒ†ã‚¹ãƒˆ
+* ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹ãƒ†ã‚¹ãƒˆ
+* ã‚¹ãƒ¬ãƒƒãƒ‰ãƒ†ã‚¹ãƒˆ
