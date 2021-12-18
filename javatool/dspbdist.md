@@ -8,7 +8,7 @@ dspbdist
   - 0.9
   
 * 使い方  
-大数の強法則
+大数の強法則  
 $ dspbdist JFreeChartModulePath | n
 
 * 出力サンプル  
