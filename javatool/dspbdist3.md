@@ -4,6 +4,7 @@ dspbdist3
 
 * 使い方  
 
+陪審定理  
 $ dspbdist3 JFreeChartModulePath 確率 | 回数
 
 * 出力サンプル  
