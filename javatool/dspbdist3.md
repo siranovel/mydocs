@@ -4,7 +4,6 @@ dspbdist3
 
 * 使い方  
 
-確率積分の近似
 $ dspbdist3 JFreeChartModulePath 確率 | 回数
 
 * 出力サンプル  
