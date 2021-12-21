@@ -25,9 +25,10 @@ mydocs
 
 ## Download手順 ##
 
-各リポジトリの取得方法
+各リポジトリの取得方法  
     git clone https://github.com/siranovel/リポジトリ.git  
+    
 例
-　　jniscrtengの場合
+　　jniscrtengの場合  
     git clone https://github.com/siranovel/jniscrteng.git  
 
