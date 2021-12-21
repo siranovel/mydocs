@@ -1,6 +1,13 @@
-自作品のドキュメント  
+mydocs
+======
+自作品物のドキュメント資料です。
 
-|repository|内容|  
+## Description ##
+７つのオブジェクト指向設計の基本原則について、C言語で作成です。
+
+## リポジトリ一覧 ##
+
+|repository|内容|
 |----------|----|
 |libproxydynlang|C言語から動的プログラム(perl,python,ruby,lua等)内の関数及びメゾッドの呼び出しライブラリ|
 |proxyjnitest   |libproxydynlangのtestプログラム                                                        |
@@ -13,3 +20,14 @@
 |luatool        |c言語からluaのライブラリを使用したツール集                                             |
 |pythontool     |c言語からpythonのライブラリを使用したツール集                                          |
 |rubytool       |c言語からrubyのライブラリを使用したツール集                                            |
+|probality_stdy |確率・統計の勉強用                                                                     |
+
+
+## Download手順 ##
+
+各リポジトリの取得方法
+    git clone https://github.com/siranovel/リポジトリ.git  
+例
+　　jniscrtengの場合
+    git clone https://github.com/siranovel/jniscrteng.git  
+
