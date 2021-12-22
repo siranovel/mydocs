@@ -3,7 +3,7 @@ cauchygraph
 コーシー分布グラフを表示する
 
 * 使い方  
-$ cauchygraph [JFreeChartModulePath] <median> <scale>
+$ cauchygraph [JFreeChartModulePath] [median] [scale]
 
 * 出力サンプル  
 
