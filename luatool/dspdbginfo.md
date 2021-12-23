@@ -7,16 +7,15 @@ debugモジュール情報を表示するプログラムです。
   - debug.getfenv
   - debug.getlocal
   - debug.getregistry
-  - debug.getmetatable
   
 * 使い方  
 $ dspdbginfo
 
 * 出力サンプル  
 
-<pre>
+~~~
 $ dspdbginfo
--- debug.getinfo     --
+-- debug.getinfo     --  
            nups : <i>0.000000
            what : <s>C
            func : <t>function
@@ -96,11 +95,11 @@ lastlinedefined : <i>-1.000000
            load : <t>function
           error : <t>function
        loadfile : <t>function
-</pre>
+~~~
 
 * クラス図  
-![rbconfig](images/pkgDspDbgInfo.jpg)
+![rbconfig](https://github.com/siranovel/luatool/blob/master/images/pkgDspDbgInfo.jpg)
 
 * シーケンス図
-![rbconfig](images/sdDspDbgInfo.jpg)
+![rbconfig](https://github.com/siranovel/luatool/blob/master/images/sdDspDbgInfo.jpg)
 
