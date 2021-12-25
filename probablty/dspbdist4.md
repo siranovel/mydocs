@@ -8,7 +8,7 @@ dspbdist4
 
 * 使い方  
 
-ランダム・ウォーク
+ランダム・ウォーク  
 $ dspbdist4 JFreeChartModulePath 確率 | 回数
 
 * 出力サンプル  
