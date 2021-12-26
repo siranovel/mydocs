@@ -98,8 +98,8 @@ lastlinedefined : <i>-1.000000
 ~~~
 
 * クラス図  
-![rbconfig](https://github.com/siranovel/luatool/blob/master/images/pkgDspDbgInfo.jpg)
+![rbconfig](images/pkgDspDbgInfo.jpg)
 
 * シーケンス図
-![rbconfig](https://github.com/siranovel/luatool/blob/master/images/sdDspDbgInfo.jpg)
+![rbconfig](images/sdDspDbgInfo.jpg)
 
