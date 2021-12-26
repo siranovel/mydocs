@@ -2,6 +2,7 @@ distgraph
 =========
 
 * 分布グラフの種類
+  - [逆正弦分布](arcsingraph.md)
   - [ベータ分布](betagraph.md)
   - [２項分布](bingraph.md)
   - [コーシー分布](cauchygraph.md)
@@ -12,7 +13,7 @@ distgraph
   - [ガンマ分布](gagraph.md)
   - [幾何分布](gegraph.md)
   - [ガンベル分布](gugraph.md)
-  - [超幾何分布](hygegraph)
+  - [超幾何分布](hygegraph.md)
   - [コルモゴロフ=スミルノフ分布](ksgraph.md)
   - [ラプラス分布](lagraph.md)
   - [レヴェ分布](legraph.md)
