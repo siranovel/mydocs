@@ -3,7 +3,17 @@ mydocs
 自作品物のドキュメント資料です。
 
 ## Description ##
-７つのオブジェクト指向設計の基本原則について、C言語で作成しています。
+７つのオブジェクト指向設計の基本原則について、C言語で作成しています。  
+
+オブジェクト指向設計の基本原則  
+  - SOLIDの原則
+    - 単一責任の原則(Single Responsibility Principle)
+    - オープン・クローズドの原則(Open-Closed Principle)
+    - リスコフの置換原則（Liskov Substitution Principle)
+    - インターフェース分離の法則(Interface Segregation Principle)
+    - 依存関係逆転の原則(Dependency Inversion Principle)
+  - DRY(Don't repeat yourself)の原則
+  - KISS(Keep It Simple Stupid)の原則
 
 ## リポジトリ一覧 ##
 
