@@ -26,6 +26,7 @@ commons-math3を利用して、分布表のデータをmongodbに格納ツール
     - [crttgldist](crttgldist.md)
     - [crtwbldist](crtwbldist.md)
     - [crtcauchydist](crtcauchydist.md)
+    - [crtasindist](crtasindist.md)
   - [dropdist](dropdist.md)
   - [dspdbs](dspdbs.md)
   - [dspdistdbs](dspdistdbs.md)
@@ -57,3 +58,4 @@ commons-math3を利用して、分布表のデータをmongodbに格納ツール
   |トライアングル分布表      |tglinv        |
   |ワイブル分布表            |wblinv        |
   |コーシー分布表            |cauchyinv     |
+  |逆正弦分布表              |asininv       |
