@@ -28,7 +28,7 @@ mydocs
 |[luatool](luatool/)                 |c言語からluaのライブラリを使用したツール集                                             |
 |[pythontool](pythontool/)           |c言語からpythonのライブラリを使用したツール集                                          |
 |[rubytool](rubytool/)               |c言語からrubyのライブラリを使用したツール集                                            |
-|[probality_stdy](probablty/)        |確率・統計の勉強用                                                                     |
+|[probality](probablty/)             |確率・統計の勉強用                                                                     |
 
 
 ## Download手順 ##
