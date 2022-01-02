@@ -1,29 +1,29 @@
-libjniscrteng‹@”\Žd—l‘
+libjniscrtengæ©Ÿèƒ½ä»•æ§˜æ›¸
 =======================
-1. –Ú“I
+1. ç›®çš„
 
-CŒ¾Œê‚©‚çScriptEngineƒNƒ‰ƒX‚ð—˜—p‚µ‚ÄA“®“IƒvƒƒOƒ‰ƒ€“à‚ÌŠÖ”‹y‚Ñƒƒ]ƒbƒh‚ðŒÄ‚Ño‚·Ž–‚ª‚Å‚«‚éB
+   Cè¨€èªžã‹ã‚‰ScriptEngineã‚¯ãƒ©ã‚¹ã‚’åˆ©ç”¨ã—ã¦ã€å‹•çš„ãƒ—ãƒ­ã‚°ãƒ©ãƒ å†…ã®é–¢æ•°åŠã³ãƒ¡ã‚¾ãƒƒãƒ‰ã‚’å‘¼ã³å‡ºã™äº‹ãŒã§ãã‚‹ã€‚
 
-1. ‘O’ñ
+1. å‰æ
 
-ƒTƒ|[ƒgOS: linux x86_64  
-ƒTƒ|[ƒg“®“IƒvƒƒOƒ‰ƒ€: graaljs, jruby, jython
+   ã‚µãƒãƒ¼ãƒˆOS: linux x86_64  
+   ã‚µãƒãƒ¼ãƒˆå‹•çš„ãƒ—ãƒ­ã‚°ãƒ©ãƒ : graaljs, jruby, jython
 
-1. ‹@”\”ÍˆÍ
+1. æ©Ÿèƒ½ç¯„å›²
 
-“®“IƒvƒƒOƒ‰ƒ€ƒtƒ@ƒCƒ‹‚ðA‰ðÍ‚·‚éŽ–‚ª‚Å‚«‚éB  
-“®“IƒvƒƒOƒ‰ƒ€“à‚ÌŠÖ”‚ðAŒÄ‚Ño‚·Ž–‚ª‚Å‚«‚éB  
-“®“IƒvƒƒOƒ‰ƒ€“à‚ÌƒXƒ^ƒeƒBƒbƒNEƒƒ]ƒbƒh‚ðAŒÄ‚Ño‚·Ž–‚ª‚Å‚«‚éB  
-“®“IƒvƒƒOƒ‰ƒ€“à‚ÌƒNƒ‰ƒX‚ÌƒCƒ“ƒXƒ^ƒ“ƒX‚ðA¶¬‚·‚é‚±‚Æ‚ª‚Å‚«‚éB  
-“®“IƒvƒƒOƒ‰ƒ€“à‚ÌƒIƒuƒWƒFƒNƒgEƒƒ]ƒbƒh‚ðAŒÄ‚Ño‚·Ž–‚ª‚Å‚«‚éB  
+   å‹•çš„ãƒ—ãƒ­ã‚°ãƒ©ãƒ ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ã€è§£æžã™ã‚‹äº‹ãŒã§ãã‚‹ã€‚  
+   å‹•çš„ãƒ—ãƒ­ã‚°ãƒ©ãƒ å†…ã®é–¢æ•°ã‚’ã€å‘¼ã³å‡ºã™äº‹ãŒã§ãã‚‹ã€‚  
+   å‹•çš„ãƒ—ãƒ­ã‚°ãƒ©ãƒ å†…ã®ã‚¹ã‚¿ãƒ†ã‚£ãƒƒã‚¯ãƒ»ãƒ¡ã‚¾ãƒƒãƒ‰ã‚’ã€å‘¼ã³å‡ºã™äº‹ãŒã§ãã‚‹ã€‚  
+   å‹•çš„ãƒ—ãƒ­ã‚°ãƒ©ãƒ å†…ã®ã‚¯ãƒ©ã‚¹ã®ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹ã‚’ã€ç”Ÿæˆã™ã‚‹ã“ã¨ãŒã§ãã‚‹ã€‚  
+   å‹•çš„ãƒ—ãƒ­ã‚°ãƒ©ãƒ å†…ã®ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆãƒ»ãƒ¡ã‚¾ãƒƒãƒ‰ã‚’ã€å‘¼ã³å‡ºã™äº‹ãŒã§ãã‚‹ã€‚  
 
-1. ‹@”\”ÍˆÍŠO
+1. æ©Ÿèƒ½ç¯„å›²å¤–
 
-ƒTƒ|[ƒg“®“IƒvƒƒOƒ‰ƒ€ˆÈŠO‚Ì“®“IƒvƒƒOƒ‰ƒ€‚ÍA‚Å‚«‚È‚¢B
+   ã‚µãƒãƒ¼ãƒˆå‹•çš„ãƒ—ãƒ­ã‚°ãƒ©ãƒ ä»¥å¤–ã®å‹•çš„ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã¯ã€ã§ããªã„ã€‚
 
-1. §ŒÀŽ–€
+1. åˆ¶é™äº‹é …
 
-1. Ú×‹@”\
+1. è©³ç´°æ©Ÿèƒ½
 
-![](1.0/images/actJniScrtEng.jpg)  
+   ![](1.0/images/actJniScrtEng.jpg)  
 
