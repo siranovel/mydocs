@@ -1,30 +1,28 @@
-libproxydynlang‚Ì‹@”\Žd—l‘
+libproxydynlangã®æ©Ÿèƒ½ä»•æ§˜æ›¸
 ===========================
-1. –Ú“I
-
+1. ç›®çš„
 ![](images/ucProxyDynLang.jpg)  
 
-1. ‘O’ñ
+1. å‰æ
 
-ƒTƒ|[ƒgOS: linux  
-ƒTƒ|[ƒg“®“IƒvƒƒOƒ‰ƒ€: vine linux 6.5‚É•t‘®‚µ‚Ä‚¢‚éŒ¾Œê  
+   ã‚µãƒãƒ¼ãƒˆOS: linux  
+   ã‚µãƒãƒ¼ãƒˆå‹•çš„ãƒ—ãƒ­ã‚°ãƒ©ãƒ : vine linux 6.5ã«ä»˜å±žã—ã¦ã„ã‚‹è¨€èªž  
 
-1. ‹@”\”ÍˆÍ
+1. æ©Ÿèƒ½ç¯„å›²
 
-“®“IƒvƒƒOƒ‰ƒ€ƒtƒ@ƒCƒ‹‚ðA‰ðÍ‚·‚éŽ–‚ª‚Å‚«‚éB  
-“®“IƒvƒƒOƒ‰ƒ€“à‚ÌŠÖ”‚ðAŒÄ‚Ño‚·Ž–‚ª‚Å‚«‚éB  
-“®“IƒvƒƒOƒ‰ƒ€“à‚ÌƒXƒ^ƒeƒBƒbƒNEƒƒ]ƒbƒh‚ðAŒÄ‚Ño‚·Ž–‚ª‚Å‚«‚éB  
-“®“IƒvƒƒOƒ‰ƒ€“à‚ÌƒNƒ‰ƒX‚ÌƒCƒ“ƒXƒ^ƒ“ƒX‚ðA¶¬‚·‚é‚±‚Æ‚ª‚Å‚«‚éB  
-“®“IƒvƒƒOƒ‰ƒ€“à‚ÌƒIƒuƒWƒFƒNƒgEƒƒ]ƒbƒh‚ðAŒÄ‚Ño‚·Ž–‚ª‚Å‚«‚éB  
+   å‹•çš„ãƒ—ãƒ­ã‚°ãƒ©ãƒ ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ã€è§£æžã™ã‚‹äº‹ãŒã§ãã‚‹ã€‚  
+   å‹•çš„ãƒ—ãƒ­ã‚°ãƒ©ãƒ å†…ã®é–¢æ•°ã‚’ã€å‘¼ã³å‡ºã™äº‹ãŒã§ãã‚‹ã€‚  
+   å‹•çš„ãƒ—ãƒ­ã‚°ãƒ©ãƒ å†…ã®ã‚¹ã‚¿ãƒ†ã‚£ãƒƒã‚¯ãƒ»ãƒ¡ã‚¾ãƒƒãƒ‰ã‚’ã€å‘¼ã³å‡ºã™äº‹ãŒã§ãã‚‹ã€‚  
+   å‹•çš„ãƒ—ãƒ­ã‚°ãƒ©ãƒ å†…ã®ã‚¯ãƒ©ã‚¹ã®ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹ã‚’ã€ç”Ÿæˆã™ã‚‹ã“ã¨ãŒã§ãã‚‹ã€‚  
+   å‹•çš„ãƒ—ãƒ­ã‚°ãƒ©ãƒ å†…ã®ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆãƒ»ãƒ¡ã‚¾ãƒƒãƒ‰ã‚’ã€å‘¼ã³å‡ºã™äº‹ãŒã§ãã‚‹ã€‚  
 
-1. ‹@”\”ÍˆÍŠO
+1. æ©Ÿèƒ½ç¯„å›²å¤–
 
-vine linux‚É•t‘®‚µ‚Ä‚¢‚È‚¢“®“I‚ÒƒƒOƒ‰ƒ€‚ÍƒTƒ|[ƒg‚µ‚È‚¢B  
+   vine linuxã«ä»˜å±žã—ã¦ã„ãªã„å‹•çš„ã´ãƒ­ã‚°ãƒ©ãƒ ã¯ã‚µãƒãƒ¼ãƒˆã—ãªã„ã€‚  
 
-1. §ŒÀŽ–€
+1. åˆ¶é™äº‹é …
 
-1. Ú×‹@”\
-
+1. è©³ç´°æ©Ÿèƒ½
 ![](images/actProxyDynLang.jpg)  
 ![](images/actProxyDynLangThread.jpg)  
 
