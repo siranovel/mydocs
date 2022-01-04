@@ -1,32 +1,49 @@
 distgraph
 =========
+1. –Ú“I
 
-* åˆ†å¸ƒã‚°ãƒ©ãƒ•ã®ç¨®é¡
-  - [é€†æ­£å¼¦åˆ†å¸ƒ](arcsingraph.md)
-  - [ãƒ™ãƒ¼ã‚¿åˆ†å¸ƒ](betagraph.md)
-  - [ï¼’é …åˆ†å¸ƒ](bingraph.md)
-  - [ã‚³ãƒ¼ã‚·ãƒ¼åˆ†å¸ƒ](cauchygraph.md)
-  - [éšï¼’ä¹—åˆ†å¸ƒ](chi2graph.md)
-  - [å®šå®Ÿåˆ†å¸ƒ](constrgraph.md)
-  - [æŒ‡æ•°åˆ†å¸ƒ](expgraph.md)
-  - [Fåˆ†å¸ƒ](fgraph.md)
-  - [ã‚¬ãƒ³ãƒåˆ†å¸ƒ](gagraph.md)
-  - [å¹¾ä½•åˆ†å¸ƒ](gegraph.md)
-  - [ã‚¬ãƒ³ãƒ™ãƒ«åˆ†å¸ƒ](gugraph.md)
-  - [è¶…å¹¾ä½•åˆ†å¸ƒ](hygegraph.md)
-  - [ã‚³ãƒ«ãƒ¢ã‚´ãƒ­ãƒ•=ã‚¹ãƒŸãƒ«ãƒãƒ•åˆ†å¸ƒ](ksgraph.md)
-  - [ãƒ©ãƒ—ãƒ©ã‚¹åˆ†å¸ƒ](lagraph.md)
-  - [ãƒ¬ãƒ´ã‚§åˆ†å¸ƒ](legraph.md)
-  - [ãƒ­ã‚¸ã‚¹ãƒ†ã‚£ãƒƒã‚¯åˆ†å¸ƒ](loggraph.md)
-  - [å¯¾æ•°æ­£è¦åˆ†å¸ƒ](logngraph.md)
-  - [ä»²ä¸Šåˆ†å¸ƒ](nkgraph.md)
-  - [æ­£è¦åˆ†å¸ƒ](ngraph.md)
-  - [ãƒ‘ãƒ¬ãƒ¼ãƒ‰åˆ†å¸ƒ](pargraph.md)
-  - [ãƒ‘ã‚¹ã‚«ãƒ«åˆ†å¸ƒ](pasgraph.md)
-  - [ãƒãƒ¯ã‚½ãƒ³åˆ†å¸ƒ](pograph.md)
-  - [Tåˆ†å¸ƒ](tgraph.md)
-  - [ãƒˆãƒ©ã‚¤ã‚¢ãƒ³ã‚°ãƒ«åˆ†å¸ƒ](tglgraph.md)
-  - [ä¸€æ§˜(æ•´æ•°)åˆ†å¸ƒ](uniigraph.md)
-  - [ä¸€æ§˜(å®Ÿæ•°)åˆ†å¸ƒ](unirgraph.md)
-  - [ãƒ¯ã‚¤ãƒ–ãƒ«åˆ†å¸ƒ](wblgraph.md)
-  - [ã‚¸ãƒ¼ãƒ•åˆ†å¸ƒ](zipfgraph.md)
+   Še•ª•z‚ÌƒOƒ‰ƒt‚ğ•\¦‚·‚é–‚ª‚Å‚«‚é  
+
+1. ‘O’ñ
+
+   ƒTƒ|[ƒgOS: linux  
+
+1. ‹@”\”ÍˆÍ
+
+   ![distgraph tool](images/ucDistGraph.jpg)
+
+1. ‹@”\”ÍˆÍŠO
+
+1. §ŒÀ–€
+
+1. Ú×‹@”\
+
+   * ƒc[ƒ‹‚Ìí—Ş
+     - [‹t³Œ·•ª•z](arcsingraph.md)
+     - [ƒx[ƒ^•ª•z](betagraph.md)
+     - [“ñ€•ª•z](bingraph.md)
+     - [ƒR[ƒV[•ª•z](cauchygraph.md)
+     - [ŠK‚Qæ•ª•z](chi2graph.md)
+     - [’èÀ•ª•z](constrgraph.md)
+     - [w”•ª•z](expgraph.md)
+     - [F•ª•zƒOƒ‰ƒt](fgraph.md)
+     - [ƒKƒ“ƒ}•ª•zƒOƒ‰ƒt](gagraph.md)
+     - [Šô‰½•ª•z](gegraph.md)
+     - [ƒKƒ“ƒxƒ‹•ª•z](gugraph.md)
+     - [’´Šô‰½•ª•z](hygegraph.md)
+     - [ƒRƒ‹ƒ‚ƒSƒƒt=ƒXƒ~ƒ‹ƒmƒt•ª•z](ksgraph.md)
+     - [ƒ‰ƒvƒ‰ƒX•ª•z](lagraph.md)
+     - [ƒŒƒ”ƒF•ª•z](legraph.md)
+     - [ƒƒWƒXƒeƒBƒbƒN•ª•z](loggraph.md)
+     - [‘Î”³‹K•ª•z](logngraph.md)
+     - [³‹K•ª•zƒOƒ‰ƒt](ngraph.md)
+     - [’‡ã•ª•z](nkgraph.md)
+     - [ƒpƒŒ[ƒh•ª•z](pargraph.md)
+     - [ƒpƒXƒJƒ‹•ª•z](pasgraph.md)
+     - [ƒ|ƒƒ\ƒ“•ª•z](pograph.md)
+     - [ƒgƒ‰ƒCƒAƒ“ƒOƒ‹•ª•z](tglgraph.md)
+     - [T•ª•z](tgraph.md)
+     - [ˆê—l(®”)•ª•z](uniigraph.md)
+     - [ˆê—l(À”)•ª•z](unirgraph.md)
+     - [ƒƒCƒuƒ‹•ª•z](wblgraph.md)
+     - [ƒW[ƒt•ª•z](zipfgraph.md)

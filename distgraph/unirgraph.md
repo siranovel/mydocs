@@ -1,5 +1,6 @@
 unirgraph
 =========
+一様(実数)分布グラフを、表示する
 
 * 使い方  
 $ unirgraph [JFreeChartModulePath] [low] [up]
