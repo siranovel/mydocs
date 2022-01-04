@@ -1,6 +1,6 @@
 dspdistdbs
 ======
-mongoDB内のdbs情報を表示する
+distdb内のコレクション一覧を表示する
 
 * 使い方  
   $ dspdistdbs | mongoDBurl  
