@@ -1,9 +1,29 @@
 rubytool
 ========
+1. –Ú“I
 
-* ãƒ„ãƒ¼ãƒ«ã®ç¨®é¡
-  - [rbmath](rbmath.md)
-  - [rbproc](rbproc.md)
-  - [rbconst](rbconst.md)
-  - [rbconfig](rbconfig.md)
+   cŒ¾Œê‚©‚çruby‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚ğŒÄ‚Ño‚·‚±‚Æ‚ª‚Å‚«‚é
+
+1. ‘O’ñ
+
+   ƒTƒ|[ƒgOS: linux
+   ƒTƒ|[ƒgŒ¾Œê: ruby
+
+1. ‹@”\”ÍˆÍ
+
+   ![ruby tool](images/ucRubyTool.jpg)
+
+1. ‹@”\”ÍˆÍŠO
+
+   vine linux‚É•t‘®‚µ‚Ä‚¢‚éƒTƒ|[ƒgŒ¾ŒêˆÈŠO‚ÍA‚Å‚«‚È‚¢
+
+1. §ŒÀ–€
+
+1. Ú×‹@”\
+
+   * ƒc[ƒ‹‚Ìí—Ş
+     - [rbmath](rbmath.md)
+     - [rbproc](rbproc.md)
+     - [rbconst](rbconst.md)
+     - [rbconfig](rbconfig.md)
   
