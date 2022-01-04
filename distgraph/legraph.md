@@ -1,6 +1,6 @@
 legraph
 =======
-レヴェ分布分布を表示する
+レヴェ分布を表示する
 
 * 使い方  
 $ legraph [JFreeChartModulePath] [mu] [c]
