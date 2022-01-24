@@ -7,7 +7,7 @@ $ logngraph [JFreeChartModulePath] [scale] [shape]
 
 * 出力サンプル  
 
-$ ./logngraph ../lib 	10 5  
+$ ./logngraph ../lib 	0 1    
 ![logngraph](images/lognGraph.jpg)
 
 * クラス図  
