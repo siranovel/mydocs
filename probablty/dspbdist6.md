@@ -7,8 +7,8 @@ dspbdist6
 
 * 使い方  
 
-ランダム・ウォーク  
-$ dspbdist6 JFreeChartModulePath 確率 | 回数
+ブラウン運動  
+$ dspbdist6 JFreeChartModulePath | 回数
 
 * 出力サンプル  
 
