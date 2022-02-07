@@ -11,7 +11,7 @@ probablty
 
 1. 機能範囲
 
-   ![probablty_stdy](images/ucProbablity.jpg)
+   ![probablty](images/ucProbablity.jpg)
 
 1. 機能範囲外
 
@@ -25,3 +25,4 @@ probablty
      - [陪審定理](dspbdist3.md)
      - [単純ランダム・ウォーク](dspbdist4.md)
      - マルチンゲール
+     - [ブラウン運動](dspbdist6.md)
