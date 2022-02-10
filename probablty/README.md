@@ -24,5 +24,5 @@ probablty
      - [大数の弱法則](dspbdist2.md)
      - [陪審定理](dspbdist3.md)
      - [単純ランダム・ウォーク](dspbdist4.md)
-     - マルチンゲール
+     - [マルチンゲール](dspbdist5.md)
      - [ブラウン運動](dspbdist6.md)
