@@ -17,6 +17,8 @@ libproxyjniの機能仕様書
 
 1. 制限事項
 
+    同じメゾットが複数ある場合は、先頭のみ呼び出せる
+
 1. 詳細機能
 
     ![](images/actProxyJNIMethod.jpg)  
