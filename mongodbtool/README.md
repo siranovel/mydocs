@@ -7,6 +7,10 @@ mongodbtoolの機能仕様書
 1. 前提
 
    サポートOS: linux  
+   必要なライブラリ: 
+       mongoc: ver 1.17以降  
+       java  : ver 11以降
+       mathライブラリ: Apache-Commons-Math3
 
 1. 機能範囲
 
@@ -15,6 +19,8 @@ mongodbtoolの機能仕様書
 1. 機能範囲外
 
 1. 制限事項
+
+    必要なライブラリ以外は、実行できない  
 
 1. 詳細機能
 
