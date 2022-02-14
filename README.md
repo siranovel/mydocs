@@ -22,7 +22,7 @@ mydocs
 |[proxydynlangtest](proxydynlang/test) |libproxydynlangのtestプログラム                                                        |
 |[libproxyjni](proxyjni/lib)           |C言語からjavaクラス内のメゾッドの呼び出しライブラリ                                    |
 |[proxyjnitest](proxyjni/test)         |libproxyjniのtestプログラム                                                            |
-|jniscrteng                            |javaのScriptEngineを利用して、動的プログラム(jruby,jython3,graaljs等)内の関数及びメゾッドの呼び出しライブラリ|
+|[jniscrteng](jniscrteng)              |javaのScriptEngineを利用して、動的プログラム(jruby,jython3,graaljs等)内の関数及びメゾッドの呼び出しライブラリ|
 |[mongodbtool](mongodbtool/)           |mongoDBに、commons-math3を利用して、分布表のデータをmongodbに格納ツール。              |
 |[distgraph](distgraph/)               |commons-math3を利用して、各分布のグラフを表示するプログラム                            |
 |[javatool](javatool/)                 |c言語からJNIライブラリを使用したツール集                                               |
