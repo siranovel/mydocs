@@ -11,10 +11,10 @@ libjniscrteng機能仕様書
 
 1. 機能範囲
 
-   |version|Use Case                        |
-   |-------|--------------------------------|
-   |ver 0.9|![](0.9/images/ucJniScrtEng.jpg)|
-   |ver 1.0|![](1.0/images/ucJniScrtEng.jpg)|
+    |version|Use Case                        |
+    |-------|--------------------------------|
+    |ver 0.9|![](0.9/images/ucJniScrtEng.jpg)|
+    |ver 1.0|![](1.0/images/ucJniScrtEng.jpg)|
 
 1. 機能範囲外
 
@@ -28,9 +28,8 @@ libjniscrteng機能仕様書
     |ver 1.0|java 17以前は、使用できない                    |
 
 1. 詳細機能
-
-   |version|Activity                        |
-   |-------|--------------------------------|
-   |ver 0.9|![](0.9/images/actJniScrtEng.jpg)|
-   |ver 1.0|![](1.0/images/actJniScrtEng.jpg)|
-
+    1. 動的プログラムファイルの解析
+    1. 動的プログラム内の関数を実行
+    1. 動的プログラム内のStatic Methodを実行
+    1. 動的プログラム内のClassインスタンスを生成
+    1. 動的プログラム内のObject Methodを実行
