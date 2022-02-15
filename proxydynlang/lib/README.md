@@ -20,7 +20,8 @@ libproxydynlangの機能仕様書
 1. 制限事項
 
 1. 詳細機能
-
-    ![](images/actProxyDynLang.jpg)  
-    ![](images/actProxyDynLangThread.jpg)  
-
+    1. 動的プログラムファイルの解析
+    1. 動的プログラム内の関数を実行
+    1. 動的プログラム内のStatic Methodを実行
+    1. 動的プログラム内のClassインスタンスを生成
+    1. 動的プログラム内のObject Methodを実行
