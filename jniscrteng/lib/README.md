@@ -7,7 +7,12 @@ libjniscrteng機能仕様書
 1. 前提
 
     サポートOS: linux x86_64  
-    サポート動的プログラム: graaljs, jruby, jython3
+    サポート動的プログラム: graaljs, jruby, jython3  
+    必要なライブラリ:  
+        |version|ライブラリ |
+        |-------|-----------|
+        |ver 0.9|libproxyjni|
+        |ver 1.0|java 17以上|
 
 1. 機能範囲
 
