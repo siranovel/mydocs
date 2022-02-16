@@ -25,3 +25,4 @@ libproxydynlangの機能仕様書
     1. 動的プログラム内のStatic Methodを実行
     1. 動的プログラム内のClassインスタンスを生成
     1. 動的プログラム内のObject Methodを実行
+    1. 動的プログラム内の関数及びメゾッドを複数同時に実行する
