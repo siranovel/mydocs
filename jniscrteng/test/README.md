@@ -1,16 +1,52 @@
-# �T�v
-libadpscrteng��test�v���O�����ł��B
+jniscrtengtest
+==============
+libadpscrtengのtestプログラムです。
 
-# test���e
-* ������test
-* ���I�t�@�C���̉��
-* �֐��e�X�g
-  * �p�����[�^�e�X�g
-  * �߂�l�e�X�g
-* Static���]�b�g�e�X�g
-  * �p�����[�^�e�X�g
-  * �߂�l�e�X�g
-* Object���]�b�h�e�X�g
-  * �p�����[�^�e�X�g
-  * �߂�l�e�X�g
+1. テスト分析
+    1. テスト対象分析
+  
+        FV表  
+        |No.   |F                                        |V                                          | T |
+        |------|-----------------------------------------|-------------------------------------------|---|
+        |6.i   |動的プログラムの解析する                 |                                           |   |
+        |6.ii  |動的プログラム内の関数を実行する         |パラメータを設定し、関数を実行する         |   |
+        |6.iii |動的プログラム内のStaticMethodを実行する |パラメータを設定し、StaticMethodを実行する |   |
+        |6.v   |動的プログラム内のObjectMethodを実行する |パラメータ無しで、クラスを生成し、         |   |
+        |||パラメータを設定し、ObjectMethodを実行する |   |
+        |6.iv  |クラスを生成する                         | 
+
+        データ型  
+        |パラメータ型  |戻り型          |ハッシュ型    |
+        |--------------|----------------|--------------|
+        |              |戻り値無し      |              |
+        |int型         |int型           |int型         |
+        |lont型        |long型          |long型        |
+        |float型       |float型         |float型       |
+        |duble型       |double型        |double型      |
+        |文字列型      |文字列型        |文字列型      |
+        |int型の配列   |int型の配列     |int型の配列   |
+        |long型の配列  |long型の配列    |long型の配列  |
+        |float型の配列 |float型の配列   |float型の配列 |
+        |double型の配列|double型の配列  |double型の配列|
+        |              |Object型の配列  |Object型の配列|
+        |ハッシュ型    |ハッシュ型      |ハッシュ型    |
+        |              |ハッシュ型の配列|              |
+        |Object型      |Object型        |Object型      |
+    
+    1. テスト要求分析
+        * 動的ファイルの解析
+        * 関数テスト
+            - パラメータテスト
+            - 戻り値テスト
+        * Staticメゾットテスト
+            - パラメータテスト
+            - 戻り値テスト
+        * Objectメゾッドテスト
+            - パラメータテスト
+            - 戻り値テスト
+        * Instanceテスト
+  
+1. テストアーキテクチャー
+    1. テストコンテナ
+    1. テストフレーム
 
