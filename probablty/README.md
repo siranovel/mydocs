@@ -8,8 +8,8 @@ probablty
 
    サポートOS: linux x86_64
    必要なライブラリ:
-       java       : ver 11以降
-       jfgreechart: ver 1.0.19
+       java      : ver 11以降
+       jfreechart: ver 1.0.19
 
 1. 機能範囲
 
