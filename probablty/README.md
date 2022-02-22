@@ -7,7 +7,7 @@ probablty
 1. 前提
 
    サポートOS: linux x86_64
-   必要なライブラリ:
+   必要なライブラリ:  
        java      : ver 11以降
        jfreechart: ver 1.0.19
 
