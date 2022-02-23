@@ -6,7 +6,7 @@ javatool
 
 1. 前提
 
-   サポートOS: linux x86_64
+   サポートOS: linux x86_64  
    サポート言語: java 11以降
 
 1. 機能範囲
