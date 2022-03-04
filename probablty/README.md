@@ -7,9 +7,9 @@ probablty
 1. 前提
 
    サポートOS: linux x86_64
-   必要なライブラリ:  
-       java      : ver 11以降  
-       jfreechart: ver 1.0.19
+   必要なライブラリ:
+       java       : ver 11以降
+       jfgreechart: ver 1.0.19
 
 1. 機能範囲
 
@@ -30,3 +30,4 @@ probablty
      - [単純ランダム・ウォーク](dspbdist4.md)
      - [マルチンゲール](dspbdist5.md)
      - [ブラウン運動](dspbdist6.md)
+     - [ブラック・ショールズ](dspbdist7.md)
