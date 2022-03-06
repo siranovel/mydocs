@@ -8,9 +8,9 @@ libjniscrteng機能仕様書
 
     サポートOS: linux x86_64  
     サポート動的プログラム: graaljs, jruby, jython3  
-    必要なライブラリ:      
-      ・v0.9: libproxyjni  
-      ・v1.0: java 17以上
+    必要なライブラリ:  
+    ・ver 0.9: libproxyjni  
+    ・ver 1.0: java 17以上  
 
 1. 機能範囲
 
@@ -31,6 +31,7 @@ libjniscrteng機能仕様書
     |ver 1.0|java 17以前は、使用できない                    |
 
 1. 詳細機能
+    1. ScriptEngine初期化
     1. 動的プログラムファイルの解析
     1. 動的プログラム内の関数を実行
     1. 動的プログラム内のStatic Methodを実行

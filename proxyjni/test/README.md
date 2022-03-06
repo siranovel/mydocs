@@ -6,15 +6,60 @@ libproxyjniのtestプログラムです。
     1. テスト対象分析
     
         FV表  
-        |No.                |F                                   |V                                                   |T  |
-        |-------------------|------------------------------------|----------------------------------------------------|---|
-        |6.i                |javaクラス内のStaticMethodを実行する|パラメータを設定し、StaticMethodを実行する          |   |
-        |6.iii              |javaクラス内のObjectMethodを実行する| パラメータ無しでクラスを生成し、                   |   |
-        ||| パラメータを設定し、ObjectMethodを実行する         |   |
-        |6.ii               |クラスの生成する                    |パラメータ有でクラスを生成し、ObjectMethodを実行する|   |
-        |6.iv、6.v          |javaクラス内のField変数の取得をする |javaクラス内のField変数を設定し、その値を取得する   |   |
-        |6.vi、6.vii、6.viii|システムプロパティの設定/取得する   |クラスパスを設定し、設定した内容を取得する          |   |
-    
+        
+        <table border="1">
+        <tr>
+            <th>no.</th>
+            <th>目的機能(F)</th>
+            <th>検証内容(V)</th>
+            <th>テスト技法(T)</th>
+        </tr>
+        <tr>
+            <td>6.i</td>
+            <td>JVM起動</td>
+            <td>JVM起動が起動できる事</td>
+            <td>　</td>
+        </tr>
+        <tr>
+            <td>6.ii</td>
+            <td>javaクラス内のStatic Methodを実行</td>
+            <td>パラメータを設定し、関数を実行できる事</td>
+            <td>　</td>
+        </tr>
+        <tr>
+            <td rowspan="2">6.iv</td>
+            <td rowspan="2">javaクラス内のObject Methodを実行</td>
+            <td>パラメータ無しで、クラスを生成できる事</td>
+            <td>　</td>
+       </tr>
+        <tr>
+            <td>パラメータを設定し、ObjectMethodを実行できる事</td>
+            <td>　</td>
+        </tr>
+        <tr>
+            <td rowspan="2">6.iii</td>
+            <td rowspan="2">クラスを生成する</td>
+            <td>パラメータ有で、クラスを生成できる事</td>
+            <td>　</td>
+       </tr>
+        <tr>
+            <td>パラメータを設定し、ObjectMethodを実行できる事</td>
+            <td>　</td>
+        </tr>
+        <tr>
+            <td>6.v, 6.vi</td>
+            <td>javaクラス内のField変数の取得をする</td>
+            <td>javaクラス内のField変数を設定し、その値を取得する</td>
+            <td>　</td>
+        </tr>
+        <tr>
+            <td>6.vii, 6.viii, 6.iX</td>
+            <td>システムプロパティの設定/取得する</td>
+            <td>javaクラス内のField変数を設定し、その値を取得する</td>
+            <td>　</td>
+        </tr>
+        </table>
+        
         データ型  
         |パラメータ型  |戻り型          |ハッシュ型    |Field型 |
         |--------------|----------------|--------------|--------|
@@ -41,6 +86,7 @@ libproxyjniのtestプログラムです。
           - パラメータテスト
           - 戻り値テスト
         * インスタンスメゾッドのテスト
+        * Field設定/取得テスト
         * システムプロパティのテスト
           - クラスパス設定テスト
           - プロパパティ取得のテスト
@@ -50,4 +96,11 @@ libproxyjniのtestプログラムです。
     
 1. テストアーキテクチャー
     1. テストコンテナ
+    
+        ![](images/ucPproxyjniTest.jpg)
+    
     1. テストフレーム
+    
+        ![](images/testframe.jpg)
+    
+    

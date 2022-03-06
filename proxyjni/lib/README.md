@@ -20,6 +20,7 @@ libproxyjniの機能仕様書
     同じメゾットが複数ある場合は、先頭のみ呼び出せる
 
 1. 詳細機能
+    1. JVM起動
     1. javaクラス内のStatic Methodを実行
     1. javaクラス内のClassインスタンスを生成
     1. javaクラス内のObject Methodを実行
@@ -28,4 +29,4 @@ libproxyjniの機能仕様書
     1. クラスパスの設定
     1. Systemプロパティの設定
     1. Systemプロパティの取得    
-
+    1. JVM終了

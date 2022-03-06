@@ -30,6 +30,7 @@ mydocs
 |[pythontool](pythontool/)             |c言語からpythonのライブラリを使用したツール集                                          |
 |[rubytool](rubytool/)                 |c言語からrubyのライブラリを使用したツール集                                            |
 |[probality](probablty/)               |確率・統計の勉強用                                                                     |
+|num_diff                              |数値計算による微分方程式の解法集                                                       |
 
 
 ## Download手順 ##
