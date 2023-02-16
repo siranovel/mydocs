@@ -6,8 +6,8 @@ num4diffrent
 
 1. 前提
 
-   サポートOS: linux  
-   必要ライブラリ:  ruby ffiライブラリ
+   サポートOS: rubyが実行出来るOS  
+   必要ライブラリ:  ruby ffi-compilerライブラリ
 
 1. 機能範囲
 
