@@ -31,7 +31,7 @@ mydocs
 |[rubytool](rubytool/)                 |c言語からrubyのライブラリを使用したツール集                                            |
 |[probality](probablty/)               |確率・統計の勉強用                                                                     |
 |[num4different](num4different)        |数値計算による常微分方程式の解析的な解法集                                                       |
-|[num4equation](num4equation)         |数値計算による方程式の解析的な解法集                                                       |
+|num4equation                          |数値計算による方程式の解析的な解法集                                                       |
 
 
 ## Download手順 ##
