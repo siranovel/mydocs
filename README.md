@@ -32,7 +32,11 @@ mydocs
 |[probality](probablty/)               |確率・統計の勉強用                                                                     |
 |[num4different](num4different)        |数値計算による常微分方程式の解析的な解法集                                                       |
 |[num4equation](num4equation)          |数値計算による方程式の解析的な解法集                                                       |
-
+|[num4integral](num4integral)          |数値計算による数値積分の解法 |
+|[num4simdifferent](num4simdifferent)  |数値計算による連立常微分方程式の解析的な解法 |
+|num4partidifferent                    |数値計算による偏微分方程式の解析的な解法 |
+|num4phyequation                       |数値計算による物理方程式の解法種     |
+|[helloci](helloci)                    |circleciによるtest&deploy|
 
 ## Download手順 ##
 
