@@ -16,5 +16,8 @@ num4mechaequation
 1. 制限事項
 
 1. 詳細機能
-    * バネの固有振動
+    * 単振動(simple harmonic motion)
     * 自由落下による運動方程式(空気抵抗有り)
+    * 放物運動
+    * 等速円運動(Uniform Circular motion)
+    * 単振り子運動
