@@ -21,3 +21,5 @@ num4mechaequation
     * 放物運動
     * 等速円運動(Uniform Circular motion)
     * 単振り子運動
+    * 減衰振動（damped harmonic motion)
+    * 強制振動
