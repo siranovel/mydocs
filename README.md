@@ -34,7 +34,7 @@ mydocs
 |[num4equation](num4equation)          |数値計算による方程式の解析的な解法集                                                       |
 |[num4integral](num4integral)          |数値計算による数値積分の解法 |
 |[num4simdifferent](num4simdifferent)  |数値計算による連立常微分方程式の解析的な解法 |
-|num4partidifferent                    |数値計算による偏微分方程式の解析的な解法 |
+|[num4partialdifferent](num4partidifferent)     |数値計算による偏微分方程式の解析的な解法 |
 |[num4mechaequation](num4phyequation/num4mechaequation) |数値計算によるニュートン力学の微分形式の解析的な解法     |
 |[helloci](helloci)                    |circleciによるtest&deploy|
 
