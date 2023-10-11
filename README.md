@@ -37,6 +37,8 @@ mydocs
 |[num4partialdifferent](num4partidifferent)     |数値計算による偏微分方程式の解析的な解法 |
 |[num4mechaequation](num4phyequation/num4mechaequation) |数値計算によるニュートン力学の微分形式の解析的な解法     |
 |[helloci](helloci)                    |circleciによるtest&deploy|
+|[stdy4act](stdy4act)                  |call to java from jruby |
+|[num4hypothtst](num4hypothtst)        |統計的仮設検定のためのライブラリ |
 
 ## Download手順 ##
 
