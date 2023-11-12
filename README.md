@@ -39,6 +39,7 @@ mydocs
 |[helloci](helloci)                    |circleciによるtest&deploy|
 |[stdy4act](stdy4act)                  |call to java from jruby |
 |[num4hypothtst](num4hypothtst)        |統計的仮設検定のためのライブラリ |
+|[num4tststatistic](num4tststatistic)  |検定統計量の計算 |
 
 ## Download手順 ##
 
