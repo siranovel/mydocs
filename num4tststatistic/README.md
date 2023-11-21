@@ -7,7 +7,7 @@ num4tststatistic
 1. 前提
 
    サポートOS: rubyが実行できるOS  
-   必要ライブラリ:  ruby rake-compieriライブラリ  
+   必要ライブラリ:  ruby rake-compilerライブラリ  
 
 1. 機能範囲
 
