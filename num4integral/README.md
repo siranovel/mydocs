@@ -7,7 +7,7 @@ num4integral
 1. 前提
 
    サポートOS: rubyが実行できるOS  
-   必要ライブラリ:  ruby ff-compierライブラリ  
+   必要ライブラリ:  ruby ffi-compierライブラリ  
 
 1. 機能範囲
 
