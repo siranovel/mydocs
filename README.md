@@ -40,6 +40,9 @@ mydocs
 |[stdy4act](stdy4act)                  |call to java from jruby |
 |[num4hypothtst](num4hypothtst)        |統計的仮設検定のためのライブラリ |
 |[num4tststatistic](num4tststatistic)  |検定統計量の計算 |
+||正規性の検定|
+||分散分析|
+
 
 ## Download手順 ##
 
