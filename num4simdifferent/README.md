@@ -1,5 +1,5 @@
 num4simdifferent
-================
+============
 1. 目的
 
     数値計算による連立常微分方程式の解析的な解法
@@ -7,7 +7,7 @@ num4simdifferent
 1. 前提
 
    サポートOS: rubyが実行できるOS  
-   必要ライブラリ:  ruby ff-compierライブラリ  
+   必要ライブラリ:  ruby ffi-compierライブラリ  
 
 1. 機能範囲
 
