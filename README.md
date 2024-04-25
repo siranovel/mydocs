@@ -42,7 +42,7 @@ mydocs
 |[num4tststatistic](num4tststatistic)  |検定統計量の計算 |
 |[num4normality](num4normality)        |正規性の検定|
 |[num4anova](num4anova)                |分散分析|
-|[num4tststatistic2](num4tststatistic2)  |統計的仮説検定(num4tststatistic2 & num4hypothtstの統合)|
+|[num4tststatistic2](num4tststatistic2)  |統計的仮説検定(num4tststatistic & num4hypothtstの統合)|
 
 ## Download手順 ##
 
