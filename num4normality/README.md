@@ -25,4 +25,5 @@ num4normality
     * タコスディーノ検定(歪度)
     * タコスディーノ検定(尖度)
     * オムニバス検定
-
+    * Anderson-darling検定
+    * Jarque-Bera検定
