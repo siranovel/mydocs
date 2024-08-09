@@ -44,6 +44,7 @@ mydocs
 |[num4anova](num4anova)                |分散分析|
 |[num4tststatistic2](num4tststatistic2)|統計的仮説検定(num4tststatistic & num4hypothtstの統合)|
 |[num4difftest](num4difftest)          |母平均の差の検定 |
+|num4regana          |回帰分析 |
 
 ## Download手順 ##
 
