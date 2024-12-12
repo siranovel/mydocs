@@ -4,9 +4,8 @@ arcsingraph
 
 * 使い方 
 
-‘‘‘
 $ arcsingraph [JFreeChartModulePath]  
-‘‘‘
+
 
 * 出力サンプル  
 
