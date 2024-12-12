@@ -2,11 +2,11 @@ arcsingraph
 ===========
 逆正弦分布グラフを表示する
 
-* 使い方  
+* 使い方 
 
-‘‘‘‘
+‘‘‘
 $ arcsingraph [JFreeChartModulePath]  
-‘‘‘‘
+‘‘‘
 
 * 出力サンプル  
 
