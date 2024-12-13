@@ -20,7 +20,7 @@ Num4ProbStdyLib.dspbdist2(n=1200)
 
 ```ruby
 require 'num4probstdy'
-Num4ProbStdyLib.dspbdist2(n)
+Num4ProbStdyLib.dspbdist2()
 ```
 
 ![dspbdist2](images/weekLawOfLargeNums.jpg)
