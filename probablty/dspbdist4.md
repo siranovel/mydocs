@@ -1,24 +1,22 @@
 dspbdist4
 =========
-単純ランダム・ウォークについて、グラフ表示する。
+単純ランダム・ウォークについて、グラフを表示する
 
 * 表示項目
   - 0.5
 
-* 使い方  
+* 使い方
 
-ランダム・ウォーク  
-$ dspbdist4 JFreeChartModulePath | 回数
+ランダム・ウォーク
+```ruby
+require 'num4probstdy'
+Num4ProbStdyLib.dspbdist4(n=1200)
+```
 
-* 出力サンプル  
+* 出力サンプル
 
-$ ./dspbdist4 lib
-![dspbdist4](images/rndwalk.jpg)
-
-* クラス図  
-![dspbdist4](images/pkgDspBDist4.jpg)
-
-* シーケンス図  
-![dspbdist4](images/sdDspBDist4.jpg)
-
-
+```ruby
+require 'num4probstdy'
+Num4ProbStdyLib.dspbdist4()
+```
+1[dspbdist4](images/rndwalk.jpg)

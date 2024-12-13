@@ -45,6 +45,7 @@ mydocs
 |[num4tststatistic2](num4tststatistic2)|統計的仮説検定(num4tststatistic & num4hypothtstの統合)|
 |[num4difftest](num4difftest)          |母平均の差の検定 |
 |[num4regana](num4regana)          |数値計算による回帰分析を行う |
+|[num4saleana](num4saleana)          |数値計算による販売分析 |
 
 ## Download手順 ##
 
