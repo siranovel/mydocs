@@ -2,15 +2,20 @@ chi2graph
 =========
 階２乗分布グラフを表示する
 
-$ chi2graph [JFreeChartModulePath] <df>
+* 使い方
 
-* 出力サンプル  
+```ruby
+require 'num4distgraph'
 
-$ ./chi2graph ../lib 	5  
+Num4DistGraphLib.chi2graph(df)
+```
+
+* 出力サンプル
+
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.chi2graph(5.0)
+```
 ![chi2graph](images/chi2Graph.jpg)
 
-* クラス図  
-![chi2graph](images/pkgChi2Graph.jpg)
 
-* シーケンス図  
-![chi2graph](images/sdChi2Graph.jpg)

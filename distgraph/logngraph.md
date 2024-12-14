@@ -2,17 +2,18 @@ logngraph
 =========
 対数正規分布グラフを表示する
 
-* 使い方  
-$ logngraph [JFreeChartModulePath] [scale] [shape]
+* 使い方
 
-* 出力サンプル  
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.logngraph(scale, shape)
+```
 
-$ ./logngraph ../lib 	0 1    
+* 出力サンプル
+
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.logngraph(10.0, 5.0)
+```
 ![logngraph](images/lognGraph.jpg)
-
-* クラス図  
-![logngraph](images/pkgLogNGraph.jpg)
-
-* シーケンス図  
-![logngraph](images/sdLogNGraph.jpg)
 

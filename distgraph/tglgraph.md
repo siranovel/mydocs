@@ -2,16 +2,18 @@ tglgraph
 ========
 トライアングル分布グラフを表示する
 
-* 使い方  
-$ tglgraph [JFreeChartModulePath] [a] [b] [c]
+* 使い方
 
-* 出力サンプル  
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.tglgraph(a, b, c)
+```
 
-$ ./tglgraph ../lib 	10 20 15  
+* 出力サンプル
+
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.tglgraph(10, 20, 13)
+```
 ![tglgraph](images/tglGraph.jpg)
 
-* クラス図  
-![tglgraph](images/pkgTglGraph.jpg)
-
-* シーケンス図  
-![tglgraph](images/sdTglGraph.jpg)

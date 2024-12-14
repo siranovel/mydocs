@@ -2,16 +2,19 @@ gagraph
 =======
 ガンマ分布グラフを表示する
 
-* 使い方  
-$ gagraph [JFreeChartModulePath] [shape] [scale]
+* 使い方
 
-* 出力サンプル  
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.gagraph(shape, scale)
+```
 
-$ ./gagraph ../lib 	10 5  
+* 出力サンプル
+
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.gagraph(10.0, 5.0)
+```
 ![gagraph](images/gaGraph.jpg)
 
-* クラス図  
-![gagraph](images/pkgGaGraph.jpg)
 
-* シーケンス図  
-![gagraph](images/sdGaGraph.jpg)

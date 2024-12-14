@@ -1,19 +1,19 @@
 pasgraph
 ========
-パスカル分布を表示する
+パスカル分布グラフを表示する
 
-* 使い方  
-$ pasgraph [JFreeChartModulePath] [r] [p]
+* 使い方
 
-* 出力サンプル  
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.pasgraph(r, p)
+```
 
-$ ./pasgraph ../lib 	20 0.4  
-![pasgraph](images/pasGraph.jpg)
+* 出力サンプル
 
-* クラス図  
-![pasgraph](images/pkgPasGraph.jpg)
-
-* シーケンス図  
-![pasgraph](images/sdPasGraph.jpg)
-
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.pasgraph(20, 0.4)
+```
+![pasgraph)(images/pasGraph.jpg)
 

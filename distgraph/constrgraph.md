@@ -1,17 +1,19 @@
 constrgraph
 ===========
-定実分布グラフを表示する
+実定数分布グラフを表示する
 
-* 使い方  
-$ constrgraph [JFreeChartModulePath] <value>
+* 使い方
 
-* 出力サンプル  
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.constrgraph(value)
+```
 
-$ ./constrgraph ../lib 	5  
+* 出力サンプル
+
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.constrgraph(5.0)
+```
 ![constrgraph](images/constRGraph.jpg)
 
-* クラス図  
-![constrgraph](images/pkgConstRGraph.jpg)
-
-* シーケンス図  
-![constrgraph](images/sdConstRGraph.jpg)

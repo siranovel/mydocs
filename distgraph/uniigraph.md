@@ -2,16 +2,18 @@ uniigraph
 =========
 一様(整数)分布グラフを表示する
 
-* 使い方  
-$ uniigraph [JFreeChartModulePath] [low] [up]
+* 使い方
 
-* 出力サンプル  
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.uniigraph(low, up)
+```
 
-$ ./uniigraph ../lib 	3 10  
+* 出力サンプル
+
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.uniigraph(3, 10)
+```
 ![uniigraph](images/uniiGraph.jpg)
 
-* クラス図  
-![uniigraph](images/pkgUniIGraph.jpg)
-
-* シーケンス図  
-![uniigraph](images/sdUniIGraph.jpg)

@@ -2,17 +2,18 @@ ngraph
 ======
 正規分布グラフを表示する
 
-* 使い方  
-$ ngraph [JFreeChartModulePath] [mean] [sd]
+* 使い方
 
-* 出力サンプル  
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.ngraph(mean, sd)
+```
 
-$ ./ngraph ../lib 	10 1.05  
+* 出力サンプル
+
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.ngraph(10,  1.05)
+```
 ![ngraph](images/nGraph.jpg)
-
-* クラス図  
-![ngraph](images/pkgNGraph.jpg)
-
-* シーケンス図  
-![ngraph](images/sdNGraph.jpg)
 

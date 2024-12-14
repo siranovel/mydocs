@@ -2,17 +2,18 @@ tgraph
 ======
 T分布グラフを表示する
 
-* 使い方  
-$ tgraph [JFreeChartModulePath] [df]
+* 使い方
 
-* 出力サンプル  
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.tgraph(df)
+```
 
-$ ./tgraph ../lib 	10  
+* 出力サンプル
+
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.tgraph(10)
+```
 ![tgraph](images/tGraph.jpg)
-
-* クラス図  
-![tgraph](images/pkgTGraph.jpg)
-
-* シーケンス図  
-![tgraph](images/sdTGraph.jpg)
 

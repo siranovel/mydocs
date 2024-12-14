@@ -2,18 +2,21 @@ gugraph
 =======
 ガンベル分布グラフを表示する
 
-* 使い方  
-$ gugraph [JFreeChartModulePath] [mu] [beta]
+* 使い方
 
-* 出力サンプル  
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.gugraph(mu, beta)
+```
 
-$ ./gugraph ../lib 	10 5  
+* 出力サンプル
+
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.gugraph(10.0, 5.0)
+```
+
 ![gugraph](images/guGraph.jpg)
 
-* クラス図  
-![gugraph](images/pkgGuGraph.jpg)
-
-* シーケンス図  
-![gugraph](images/sdGuGraph.jpg)
 
 

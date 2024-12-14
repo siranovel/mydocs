@@ -2,17 +2,18 @@ pograph
 =======
 ポワソン分布グラフを表示する
 
-* 使い方  
-$ pograph [JFreeChartModulePath] [p]
+* 使い方
 
-* 出力サンプル  
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.pograph(p)
+```
 
-$ ./pograph ../lib 	3  
+* 出力サンプル
+
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.pograph(0.4)
+```
 ![pograph](images/poGraph.jpg)
-
-* クラス図  
-![pograph](images/pkgPoGraph.jpg)
-
-* シーケンス図  
-![pograph](images/sdPoGraph.jpg)
 

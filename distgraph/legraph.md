@@ -1,18 +1,18 @@
 legraph
 =======
-レヴェ分布を表示する
+レヴェ分布グラフを表示する
 
-* 使い方  
-$ legraph [JFreeChartModulePath] [mu] [c]
+* 使い方
 
-* 出力サンプル  
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.legraph(mu, c)
+```
 
-$ ./legraph ../lib 	10 5  
+* 出力サンプル
+
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.legraph(10.0, 5.0)
+```
 ![legraph](images/leGraph.jpg)
-
-* クラス図  
-![legraph](images/pkgLeGraph.jpg)
-
-* シーケンス図  
-![legraph](images/sdLeGraph.jpg)
-

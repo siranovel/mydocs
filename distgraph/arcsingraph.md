@@ -2,18 +2,20 @@ arcsingraph
 ===========
 逆正弦分布グラフを表示する
 
-* 使い方 
+* 使い方
 
-$ arcsingraph [JFreeChartModulePath]  
+```ruby
+require 'num4distgraph'
 
+Num4DistGraphLib.arcsingraph()
+```
 
-* 出力サンプル  
+* 出力サンプル
 
-$ ./arcsingraph ../lib  
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.arcsingraph()
+```
 ![arcsingraph](images/arcSinGraph.jpg)
 
-* クラス図  
-![arcsingraph](images/pkgArcSinGraph.jpg)
 
-* シーケンス図  
-![arcsingraph](images/sdArcSinGraph.jpg)

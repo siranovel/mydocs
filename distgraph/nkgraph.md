@@ -2,17 +2,18 @@ nkgraph
 =======
 仲上分布グラフを表示する
 
-* 使い方  
-$ nkgraph [JFreeChartModulePath] [mu] [omega]
+* 使い方
 
-* 出力サンプル  
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.nkgraph(mu, omega)
+```
 
-$ ./nkgraph ../lib 	10 5  
+* 出力サンプル
+
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.nkgraph(10,  5.0)
+```
 ![nkgraph](images/nkGraph.jpg)
-
-* クラス図  
-![nkgraph](images/pkgNkGraph.jpg)
-
-* シーケンス図  
-![nkgraph](images/sdNkGraph.jpg)
 

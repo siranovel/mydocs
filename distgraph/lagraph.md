@@ -2,17 +2,20 @@ lagraph
 =======
 ラプラス分布グラフを表示する
 
-* 使い方  
-$ lagraph [JFreeChartModulePath] [mu] [beta]
+* 使い方
 
-* 出力サンプル  
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.lagraph(mu, beta)
+```
 
-$ ./lagraph ../lib 	10 5  
+* 出力サンプル
+
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.lagraph(10.0, 5.0)
+```
 ![lagraph](images/laGraph.jpg)
 
-* クラス図  
-![lagraph](images/pkgLaGraph.jpg)
 
-* シーケンス図  
-![lagraph](images/sdLaGraph.jpg)
 
