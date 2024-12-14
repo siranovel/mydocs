@@ -6,10 +6,8 @@ probablty
 
 1. 前提
 
-   サポートOS: linux x86_64
-   必要なライブラリ:
-       java       : ver 11以降
-       jfgreechart: ver 1.0.19
+   サポートOS: rubyが実行できるOS  
+   必要ライブラリ:  ruby rake-compilerライブラリ  
 
 1. 機能範囲
 
