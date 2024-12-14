@@ -2,17 +2,17 @@ wblgraph
 ========
 ワイブル分布グラフを表示する
 
-* 使い方  
-$ wblgraph [JFreeChartModulePath] [alpha] [beta]
+* 使い方
 
-* 出力サンプル  
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.wblgraph(alpha, beta)
+```
 
-$ ./wblgraph ../lib 	5 10  
+* 出力サンプル
+
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.wblgraph(5.0, 10.0)
+```
 ![wblgraph](images/wblGraph.jpg)
-
-* クラス図  
-![wblgraph](images/pkgWblGraph.jpg)
-
-* シーケンス図  
-![wblgraph](images/sdWblGraph.jpg)
-

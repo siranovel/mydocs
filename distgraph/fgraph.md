@@ -2,17 +2,18 @@ fgraph
 ======
 F分布グラフを表示する
 
-* 使い方  
-$ fgraph [JFreeChartModulePath] <nf> <df>
+* 使い方
 
-* 出力サンプル  
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.fgraph(nf, df)
+```
 
-$ ./fgraph ../lib 	10 5  
-![fgraph](images/fGraph.jpg)
+* 出力サンプル
 
-* クラス図  
-![fgraph](images/pkgFGrapth.jpg)
-
-* シーケンス図  
-![fgraph](images/sdFGrapth.jpg)
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.fgraph(10.0, 5.0)
+```
+![fgraph](images/fGraph.jp)
 

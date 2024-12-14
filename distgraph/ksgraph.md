@@ -2,17 +2,20 @@ ksgraph
 =======
 コルモゴロフ=スミルノフ分布グラフを表示する
 
-* 使い方  
-$ ksgraph [JFreeChartModulePath] [n]
+* 使い方
 
-* 出力サンプル  
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.ksgraph(n)
+```
 
-$ ./ksgraph ../lib 	10  
+* 出力サンプル
+
+```ruby
+require 'num4distgraph'
+Num4DistGraphLib.ksgraph(10)
+```
 ![ksgraph](images/ksGraph.jpg)
 
-* クラス図  
-![ksgraph](images/pkgKsGraph.jpg)
 
-* シーケンス図  
-![ksgraph](images/sdKsGraph.jpg)
 
