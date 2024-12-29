@@ -12,6 +12,7 @@ mongo.crtbebidist(trials, alpha, beta)
 ```
 
 * テーブルの型
+
   DataBase名: distdb  
   コレクション名: bebi  
 
