@@ -15,4 +15,5 @@ Num4DistGraphLib.legraph(mu, c)
 require 'num4distgraph'
 Num4DistGraphLib.legraph(10.0, 5.0)
 ```
+
 ![legraph](images/leGraph.jpg)
