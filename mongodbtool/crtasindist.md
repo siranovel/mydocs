@@ -2,21 +2,23 @@ crtasindist
 ===========
 逆正弦分布表の作成する
 
-* 使い方  
-  $ crtasindist | mongoDBurl
+* 使い方
 
-* テーブルの型  
-  DataBase名:distdb  
-  コレクション名:asininv  
+```ruby
+require 'num4distdb'
 
-  |カラム名|型     |
-  |--------|-------|
-  |_id     |ID     |
-  |p       |double |
-  |x       |double |
+mongo = Num4DistDBLIB::Num4DistDBCrtLib.new
+mongo.crtasindist
+```
 
-* クラス図  
-![crtbebidist](images/pkgCrtASinDist.jpg)
+* テーブルの型
+  DataBase名: distdb  
+  コレクション名: asininv  
 
-* シーケンス図  
-![crtbebidist](images/sdCrtASinDist.jpg)
+  |カラム名|型    |
+  |-------|------|
+  |_id    |ID    |
+  |p      |double|
+  |x      |double|
+
+

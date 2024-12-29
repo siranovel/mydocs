@@ -1,25 +1,25 @@
 crtbebidist
-==========
+===========
 ベータ2項分布表の作成する
 
-* 使い方  
-  $ crtbebidist CommonsMath3ModulePath trials alpha beta | mongoDBurl
+* 使い方
 
-* テーブルの型  
-  DataBase名:distdb  
-  コレクション名:bebi  
+```ruby
+require 'num4distdb'
+
+mongo = Num4DistDBLIB::Num4DistDBCrtLib.new
+mongo.crtbebidist(trials, alpha, beta)
+```
+
+* テーブルの型
+  DataBase名: distdb  
+  コレクション名: bebi  
 
   |カラム名|型     |
-  |--------|-------|
-  |_id     |ID     |
-  |n       |int32  |
-  |a       |double |
-  |b       |double |
-  |x       |int32  |
-  |p       |double |
-
-* クラス図  
-![crtbebidist](images/pkgCrtBeBiDist.jpg)
-
-* シーケンス図  
-![crtbebidist](images/sdCrtBeBiDist.jpg)
+  |--------|------|
+  |_id     |ID    |
+  |n       |int32 |
+  |a       |double|
+  |b       |double|
+  |x       |double|
+  |p       |double|

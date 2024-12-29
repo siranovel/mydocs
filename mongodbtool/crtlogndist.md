@@ -1,22 +1,23 @@
 crtlogndist
-========
+===========
 対数正規分布表の作成する
 
-* 使い方  
-  $ crtlogndist CommonsMath3ModulePath | mongoDBurl
+* 使い方
 
-* テーブルの型  
+```ruby
+require 'num4distdb'
+
+mongo = Num4DistDBLIB::Num4DistDBCrtLib.new
+mongo.crtlogndist
+```
+
+* テーブルの型
   DataBase名:distdb  
   コレクション名:lognorminv  
 
   |カラム名|型     |
-  |--------|-------|
-  |_id     |ID     |
-  |p       |double |
-  |logz    |double |
-  
-* クラス図  
-![crtlogndist](images/pkgCrtLogNDist.jpg)
+  |--------|------|
+  |id      |ID    |
+  |p       |double|
+  |logz    |double|
 
-* シーケンス図  
-![crtlogndist](images/sdCrtLogNDist.jpg)

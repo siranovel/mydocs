@@ -2,23 +2,23 @@ crtzipfdist
 ===========
 Zipf分布表の作成する
 
-* 使い方  
-  $ crtzipfdist CommonsMath3ModulePath numberOfElements exponent | mongoDBurl  
+* 使い方
 
-* テーブルの型  
+```ruby
+require 'num4distdb'
+
+mongo = Num4DistDBLIB::Num4DistDBCrtLib.new
+mongo.crtzipfdist(n, exponent)
+```
+
+* テーブルの型
   DataBase名:distdb  
   コレクション名:zipfinv  
 
-  |カラム名|型     |
-  |--------|-------|
-  |_id     |ID     |
-  |elm     |int32  |
-  |exponent|double |
-  |p       |double |
-  |zipf    |int32  |
-  
-* クラス図  
-![crtzipfdist](images/pkgCrtZipfDist.jpg)
+  |カラム名 |型    |
+  |_id     |ID    |
+  |elm     |int32 |
+  |exponent|double|
+  |p       |double|
+  |zipf    |double|
 
-* シーケンス図  
-![crtzipfdist](images/sdCrtZipfDist.jpg)

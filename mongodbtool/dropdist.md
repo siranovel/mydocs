@@ -1,13 +1,16 @@
 dropdist
 ========
-指定されたコレクションを削除する
+コレクションを削除
 
-* 使い方  
-  $ dropdist tableName | mongoDBurl  
-  
-* クラス図  
-![dropdist](images/pkgDropDistDB.jpg)
+* 使い方
 
-* シーケンス図  
-![dropdist](images/sdDropDistDB.jpg)
+```ruby
+require 'num4distdb'
+
+mongo = Num4DistDBLIB::Num4DistDBInfoLib.new
+mongo.dropdist("asininv")
+```
+
+
+
 
