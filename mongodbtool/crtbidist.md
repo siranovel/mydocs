@@ -13,6 +13,7 @@ mongo.crtbidist(trials, mu)
 有意水準:0.050
 
 * テーブルの型
+
   DataBase名: distdb  
   コレクション名: bebi  
 
