@@ -15,6 +15,7 @@ Num4DistGraphLib.lagraph(mu, beta)
 require 'num4distgraph'
 Num4DistGraphLib.lagraph(10.0, 5.0)
 ```
+
 ![lagraph](images/laGraph.jpg)
 
 
