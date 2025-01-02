@@ -6,11 +6,7 @@ mongodbtoolの機能仕様書
 
 1. 前提
 
-   サポートOS: linux  
-   必要なライブラリ:  
-       mongoc: ver 1.17以降  
-       java  : ver 11以降
-       mathライブラリ: Apache-Commons-Math3
+   必要ライブラリ:  ruby rake-compilerライブラリ  
 
 1. 機能範囲
 
