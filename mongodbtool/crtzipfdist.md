@@ -12,6 +12,7 @@ mongo.crtzipfdist(n, exponent)
 ```
 
 * テーブルの型
+
   DataBase名:distdb  
   コレクション名:zipfinv  
 

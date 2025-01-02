@@ -13,6 +13,7 @@ mongo.crtgndist(df)
 有意水準:0.050、0.025
 
 * テーブルの型
+
   DataBase名:distdb  
   コレクション名:gninv  
 

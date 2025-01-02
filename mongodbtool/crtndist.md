@@ -12,6 +12,7 @@ mongo.crtndist
 ```
 
 * テーブルの型
+
   DataBase名:distdb  
   コレクション名:norminv  
 

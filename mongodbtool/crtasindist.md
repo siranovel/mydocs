@@ -11,7 +11,8 @@ mongo = Num4DistDBLIB::Num4DistDBCrtLib.new
 mongo.crtasindist
 ```
 
-* テーブルの型  
+* テーブルの型
+
   DataBase名: distdb  
   コレクション名: asininv  
 

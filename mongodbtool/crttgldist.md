@@ -13,6 +13,7 @@ mongo.crttgldist(a, b, c)
 有意水準0.050
 
 * テーブルの型
+
   DataBase名:distdb  
   コレクション名:tglinv  
 

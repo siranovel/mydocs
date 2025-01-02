@@ -12,6 +12,7 @@ mongo.crtparetodist
 ```
 
 * テーブルの型
+
   DataBase名:distdb  
   コレクション名:gpinv  
 

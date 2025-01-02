@@ -13,6 +13,7 @@ mongo.crthgedist(populationSize)
 有意水準:0.050
 
 * テーブルの型
+
   Database名:distdb  
   コレクション名:hgeinv  
 

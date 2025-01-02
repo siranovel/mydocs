@@ -14,6 +14,7 @@ mongo.crtchi2dist(df)
 
 
 * テーブルの型
+
   DataBase名:distdb  
   コレクション名:chi2inv  
 
