@@ -15,13 +15,12 @@ mongo.crtbidist(trials, mu)
 * テーブルの型
 
   DataBase名: distdb  
-  コレクション名: bebi  
+  コレクション名: biinv  
 
   |カラム名|型     |
   |--------|------|
   |_id     |ID    |
   |n       |int32 |
-  |a       |double|
-  |b       |double|
-  |x       |double|
+  |mu      |double|
   |p       |double|
+  |bi      |int32 |
