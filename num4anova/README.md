@@ -20,7 +20,7 @@ num4anova
       * パラメトリック検定
         - [turkeyの方法による多重比較](turkey_test.md)
         - [ボンフェロー二の不等式による多重比較(T検定)](bonferrono_test.md)
-        - [Dunnet検定](dunnet.md)
+        - [Dunnet検定](dunnet_test.md)
           - 両側検定
           - 左側検定
           - 右側検定
