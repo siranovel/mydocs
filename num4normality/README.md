@@ -16,14 +16,14 @@ num4normality
 1. 機能制限
 
 1. 機能詳細
-    * Q-Qプロット
-    * コルモゴルフ・スミルノフ検定プロット
-    * Q-Q and KS検定プロット
-    * P-Pプロット
-    * P-P and KS検定プロット
-    * コルモゴルフ・スミルノフ検定(1標本)
-    * タコスディーノ検定(歪度)
-    * タコスディーノ検定(尖度)
-    * オムニバス検定
-    * Anderson-darling検定
-    * Jarque-Bera検定
+    * [Q-Qプロット](qqplot.md)
+    * [コルモゴルフ・スミルノフ検定プロット](ksplot.md)
+    * [Q-Q and KS検定プロット](qqksplot.md)
+    * [P-Pプロット](ppplot.md)
+    * [P-P and KS検定プロット](ppksplot.md)
+    * [コルモゴルフ・スミルノフ検定(1標本)](kstest.md)
+    * [タコスディーノ検定(歪度)](skewnesstest.md)
+    * [タコスディーノ検定(尖度)](kurtosistest.md)
+    * [オムニバス検定](omnibustest.md)
+    * [Anderson-darling検定](adtest.md)
+    * [Jarque-Bera検定](jbtest.md)
