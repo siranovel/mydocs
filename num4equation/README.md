@@ -16,7 +16,7 @@ num4equation
 1. 制限事項
 
 1. 詳細機能
-    * ニュートン法
-    * 二分法
-    * 割線法
+    * [ニュートン法](newtonMethod.md)
+    * [二分法](bisectionMethod.md)
+    * [割線法](secantMethod.md)
 
