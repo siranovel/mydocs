@@ -16,7 +16,7 @@ num4integral
 1. 機能制限
 
 1. 機能詳細
-    * 左リーマン和法
-    * 右リーマン和法
-    * ニュートン・コーツ法(1次:台形公式)
-    * ニュートン・コーツ法(2次:シンプソンの公式)
+    * [左リーマン和法](leftReimannSumMethod.md)
+    * [右リーマン和法](rigtReimannSumMethod.md)
+    * [ニュートン・コーツ法(1次:台形公式)](trapezioidalRule.md)
+    * [ニュートン・コーツ法(2次:シンプソンの公式)](simpsonRule.md)
