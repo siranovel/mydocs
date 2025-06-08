@@ -16,5 +16,6 @@ num4partialdifferent
 1. 機能制限
 
 1. 機能詳細
-    * 有限差分法
+    * [有限差分法](finiteDiffMethod.md)
+
 
