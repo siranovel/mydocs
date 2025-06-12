@@ -16,10 +16,11 @@ num4mechaequation
 1. 制限事項
 
 1. 詳細機能
-    * 単振動(simple harmonic motion)
-    * 自由落下による運動方程式(空気抵抗有り)
-    * 放物運動
-    * 等速円運動(Uniform Circular motion)
-    * 単振り子運動
-    * 減衰振動（damped harmonic motion)
-    * 強制振動
+    * [単振動(simple harmonic motion)](SHM.md)
+    * [自由落下による運動方程式(空気抵抗有り)](freeFallMotion.md)
+    * [放物運動](projectileMotion.md)
+    * [等速円運動(Uniform Circular motion)](UCM.md)
+    * [振り子運動](pendulumMotion.md)
+    * [減衰振動（damped harmonic motion)](DHM.md)
+    * [強制振動](forcedOscillation.md)
+

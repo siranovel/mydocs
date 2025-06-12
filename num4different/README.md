@@ -19,10 +19,10 @@ num4diffrent
 
 1. 詳細機能
     * 一段法
-        * オイラー法
-        * ホイン法
-        * ルンゲ・クッタ法
+        * [オイラー法](eulerMethod.md)
+        * [ホイン法](heunMethod.md)
+        * [ルンゲ・クッタ法](rungeKuttaMethod.md)
     * 多段法
-        * アダムス・バッシュフォース法(k段)
-        * アダムス・ムルトン法(k段)
+        * [アダムス・バッシュフォース法(k段)](adamsBashforthMethod.md)
+        * [アダムス・ムルトン法(k段)](adamsMoultonMethod.md)
     

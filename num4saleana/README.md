@@ -18,5 +18,5 @@ num4anova
 1. 機能詳細
     * 販売分析
       - 売上分析
-        - ABC分析
-        - クロスABC分析
+        - [ABC分析](abcana.md)
+        - [クロスABC分析](crossabcana.md)
