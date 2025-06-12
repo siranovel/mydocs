@@ -16,7 +16,7 @@ num4simdifferent
 1. 機能制限
 
 1. 機能詳細
-    * オイラー法
-    * ホイン法
-    * ルンゲ・クッタ法
+    * [オイラー法](eulerMethod.md)
+    * [ホイン法](heunMethod.md)
+    * [ルンゲ・クッタ法](rungeKuttaMethod.md)
 
