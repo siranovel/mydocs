@@ -53,3 +53,4 @@ num4regana
         - [傾向スコアによる効果推定](propen_score.md)
           - 傾向スコアマッチング(PSM)
           - 逆確率重み付け推定(IPW)
+        - [DID(Differene in Difference)](did.md)
