@@ -7,15 +7,15 @@ dspbdist5
   - 0.50
   - 0.55
 
-* 出力サンプル
+## 出力サンプル
+### 回数設定あり
 
-マルチンゲール性
 ```ruby
 require 'num4probstdy'
 Num4ProbStdyLib.dspbdist5(n=600)
 ```
 
-* 出力サンプル
+### 回数設定なし
 
 ```ruby
 require 'num4probstdy'
