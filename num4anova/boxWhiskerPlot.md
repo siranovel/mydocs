@@ -2,7 +2,7 @@ boxWhiskerPlot
 --------------
 箱ひげ図
 
-* 使い方
+## 使い方
 
 ```ruby
 vals = {

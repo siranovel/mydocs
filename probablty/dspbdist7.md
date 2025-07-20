@@ -5,15 +5,14 @@ dspbdist7
 * 表示項目
   - 0.5
 
-* 使い方
+## 使い方
 
-ブラック＝ショールズ過程
 ```ruby
 require 'num4probstdy'
 Num4ProbStdyLib.dspbdist7(n=600)
 ```
 
-* 出力サンプル
+## 出力サンプル
 
 ```ruby
 require 'num4probstdy'

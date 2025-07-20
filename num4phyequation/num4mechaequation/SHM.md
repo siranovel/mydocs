@@ -2,7 +2,7 @@ SHM
 ---
 単振動(simple harmonic motion)
 
-* 使い方
+## 使い方
 
 ```ruby
 m = 1.0

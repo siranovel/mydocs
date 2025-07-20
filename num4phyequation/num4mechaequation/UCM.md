@@ -2,7 +2,7 @@ UCM
 ===
 等速円運動(Uniform Circular motion)
 
-* 使い方
+## 使い方
 
 ```ruby
 m = 1.0

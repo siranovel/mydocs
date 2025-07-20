@@ -7,16 +7,14 @@ dspbdist
   - 0.4
   - 0.9
 
-* 使い方
-
-大数の強法則
+## 使い方
 
 ```ruby
 require 'num4probstdy'
 Num4ProbStdyLib.dspbdist(n=1200)
 ```
 
-* 出力サンプル
+## 出力サンプル
 
 ```ruby
 require 'num4probstdy'

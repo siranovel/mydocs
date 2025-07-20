@@ -2,7 +2,7 @@ oneway_scatter_plot
 -------------------
 一元散布図
 
-* 使い方
+## 使い方
 
 ```ruby
 vals = {

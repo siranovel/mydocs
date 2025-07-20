@@ -2,7 +2,7 @@ rungeKuttaMethod
 ================
 4次のルンゲ＝クッタ法による数値計算
 
-* 使い方
+## 使い方
 
 ```ruby
 func = Proc.new do | n, yi |

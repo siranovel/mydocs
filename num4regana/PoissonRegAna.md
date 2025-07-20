@@ -2,9 +2,8 @@ PoissonRegAna
 =============
 ポアソン回帰分析
 
-* 使い方
-
-ポアソン回帰分析の場合
+## 使い方
+### ポアソン回帰分析の場合
 
 ```ruby
 glsyi = [4, 10, 7, 14]
@@ -18,7 +17,7 @@ regana = Num4RegAnaLib::PoissonRegAnaLib.new
 regana.non_line_reg_ana(glsyi, glsxij)
 ```
 
-AIC(赤池の情報基準)の場合
+### AIC(赤池の情報基準)の場合
 
 ```ruby
 reg = {

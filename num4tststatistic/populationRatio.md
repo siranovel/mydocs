@@ -2,7 +2,7 @@ populationRatio
 ===============
 母比率の検定量
 
-* 使い方
+## 使い方
 
 ```ruby
 paraTest = Num4TstStatisticLib::ParametrixTestLib.new

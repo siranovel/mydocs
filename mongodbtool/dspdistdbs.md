@@ -2,7 +2,7 @@ dspdistdbs
 ==========
 distdb内のテーブル一覧を表示
 
-* 使い方
+## 使い方
 
 ```ruby
 mongo = Num4DistDBLIB::Num4DistDBInfoLib.new
@@ -12,7 +12,7 @@ ret.each do |name|
 end
 ```
 
-* 出力サンプル
+## 出力サンプル
 
 <pre>
 12月 28, 2024 12:19:17 午後 com.mongodb.diagnostics.logging.JULLogger log

@@ -2,7 +2,7 @@ abcana
 ======
 ABC分析
 
-* 使い方
+## 使い方
 
 ```ruby
 sales_info = [
