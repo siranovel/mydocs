@@ -2,7 +2,7 @@ crthgedist
 ==========
 超幾何分布表の作成する
 
-* 使い方
+## 使い方
 
 ```ruby
 require 'num4distdb'
@@ -12,7 +12,7 @@ mongo.crthgedist(populationSize)
 ```
 有意水準:0.050
 
-* テーブルの型
+## テーブルの型
 
   Database名:distdb  
   コレクション名:hgeinv  

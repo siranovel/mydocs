@@ -2,7 +2,7 @@ dropdist
 ========
 コレクションを削除
 
-* 使い方
+## 使い方
 
 ```ruby
 require 'num4distdb'
