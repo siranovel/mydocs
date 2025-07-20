@@ -2,7 +2,7 @@ DHM
 ===
 減衰振動（damped harmonic motion)
 
-* 使い方
+## 使い方
 
 ```ruby
 m = 1.0
