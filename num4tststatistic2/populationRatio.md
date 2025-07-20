@@ -2,7 +2,7 @@ populationRatio
 ===============
 母比率の検定
 
-* 使い方
+## 使い方
 
 ```ruby
 hypothTest = Num4HypothTestLib::TwoSideTestLib.new

@@ -2,9 +2,8 @@ spearmanscorr
 =============
 スピアマンの順位相関係数
 
-* 使い方
-
-無相関の検定
+## 使い方
+### 無相関の検定
 
 ```ruby
 x = [113, 64, 16, 45, 28, 19, 30, 82, 76]
@@ -13,7 +12,7 @@ corrTest = CorrTestLib::DecorrTestLib.new
 corrTest.spearmanscorr(x, y, 0.05)
 ```
 
-母相関係数の検定
+### 母相関係数の検定
 
 ```ruby
 x = [113, 64, 16, 45, 28, 19, 30, 82, 76]

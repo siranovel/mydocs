@@ -2,9 +2,8 @@ pearsoCorrelation
 =================
 ピアソン相関係数
 
-* 使い方
-
-無相関の検定の場合
+## 使い方
+### 無相関の検定の場合
 
 ```ruby
 x = [113, 64, 16, 45, 28, 19, 30, 82, 76]
@@ -13,7 +12,7 @@ corrTest = CorrTestLib::DecorrTestLib.new
 corrTest.pearsoCorrelation(x, y, 0.05)
 ```
 
-母相関係数の検定の場合
+### 母相関係数の検定の場合
 
 ```ruby
 x = [113, 64, 16, 45, 28, 19, 30, 82, 76]

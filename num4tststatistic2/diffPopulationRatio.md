@@ -2,7 +2,7 @@ diffPopulationRatio
 ===================
 2つの母比率の差の検定
 
-* 使い方
+## 使い方
 
 ```ruby
 hypothTest = Num4HypothTestLib::TwoSideTestLib.new
