@@ -2,9 +2,8 @@ ProBitRegAna
 ============
 プロビット回帰分析
 
-* 使い方
-
-プロビット回帰分析の場合
+## 使い方
+### プロビット回帰分析の場合
 
 ```ruby
 glsyi = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
@@ -40,7 +39,7 @@ regana = Num4RegAnaLib::ProBitRegAnaLib.new
 regana.non_line_reg_ana(glsyi, glsxij)
 ```
 
-AIC(赤池の情報基準)の場合
+### AIC(赤池の情報基準)の場合
 
 ```ruby
 reg = {

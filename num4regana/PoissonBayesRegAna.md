@@ -2,9 +2,8 @@ PoissonBayesRegAna
 ==================
 ベイズポアソン回帰分析
 
-* 使い方
-
-ベイズポアソン回帰分析の場合
+## 使い方
+### ベイズポアソン回帰分析の場合
 
 ```ruby
 glsyi = [4, 10, 7, 14]
@@ -18,7 +17,7 @@ regana = Num4GLMMRegAnaLib::PoissonBayesRegAnaLib.new
 regana.non_line_reg_ana(glsyi, glsxij)
 ```
 
-BIC(ベイズ情報基準)の場合
+### BIC(ベイズ情報基準)の場合
 
 ```ruby
 reg = {
