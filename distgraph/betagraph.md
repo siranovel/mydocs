@@ -2,7 +2,7 @@ betagraph
 =========
 ベータ分布グラフを表示する
 
-* 使い方
+## 使い方
 
 ```ruby
 require 'num4distgraph'
@@ -10,7 +10,7 @@ require 'num4distgraph'
 Num4DistGraphLib.betagraph(alpha, beta)
 ```
 
-* 出力サンプル
+## 出力サンプル
 
 ```ruby
 require 'num4distgraph'
