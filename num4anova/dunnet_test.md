@@ -2,9 +2,9 @@ DunnetTestLib
 -------------
 Dunnet検定
 
-* 使い方
+## 使い方
 
-両側検定の場合
+### 両側検定の場合
 
 ```ruby
 xi = [
@@ -26,7 +26,7 @@ paraTest.twoside_test(xi, 0.05)
   ]
 ```
 
-左側検定の場合
+### 左側検定の場合
 
 ```ruby
 xi = [
@@ -48,7 +48,7 @@ paraTest.leftside_test(xi, 0.05)
   ]
 ```
 
-右側検定の場合
+### 右側検定の場合
 
 ```ruby
 xi = [

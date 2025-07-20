@@ -2,7 +2,7 @@ turkey_test
 -----------
 turkeyの方法による多重比較
 
-* 使い方
+## 使い方
 
 ```ruby
 xi = [
