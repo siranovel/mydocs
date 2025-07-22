@@ -4,6 +4,14 @@ finiteDiffMethod
 
 ## 使い方
 
+```math
+\begin{eqnarray}
+  \frac{\partial}{\partial{t}}f(x,y,z) &=& 2*x+3*y+4*z+5 \\
+  x(0)=y(0)=z(0) &=& 0.0
+\end{eqnarray}
+```
+上記の偏微分方程式を有限差分法による解法
+
 ```ruby
 yi = [0.0, 0.0, 0.0]
 x0 = [0.0, 0.0, 0.0]
