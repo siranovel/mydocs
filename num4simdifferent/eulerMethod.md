@@ -8,12 +8,12 @@ eulerMethod
 \begin{eqnarray}
   \left\{
     \begin{array}
-      u=\frac{d}{dt}y\\
+      \frac{d}{dt}y=u\\
       \frac{d}{dt}u=y
     \end{array}
-  \right.
+  \right. \\
 \end{eqnarray}
-  y(0)=1.0 u(0)=1.0
+  y(0)=u(0)=1.0
 ```
 上記の一次連立常微分方程式をオイラー法による解法
 
