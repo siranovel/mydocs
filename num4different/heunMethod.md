@@ -4,6 +4,15 @@ heunMethod
 
 ## 使い方
 
+```math
+\begin{eqnarray}
+  a&=&1\\
+  \frac{d}{dx}y&=&1.0 + a * x \\
+  y(0)&=&1
+\end{eqnarray}
+```
+上記の常微分方程式をホイン法による解法
+
 ```ruby
 yi = 1.0
 h = 0.001

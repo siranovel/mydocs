@@ -4,6 +4,19 @@ heunMethod
 
 ## 使い方
 
+```math
+\begin{eqnarray}
+  \left\{
+    \begin{array}
+      u=\frac{d}{dt}y\\
+      \frac{d}{dt}u=y
+    \end{array}
+  \right.
+\end{eqnarray}
+  y(0)=1.0 u(0)=1.0
+```
+上記の一次連立常微分方程式をホイン法による解法
+
 ```ruby
 func = Proc.new do | n, yi |
   f = []
