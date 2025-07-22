@@ -8,7 +8,7 @@ eulerMethod
 \begin{eqnarray}
   \left\{
     \begin{array}
-      \frac{d}{dt}y=u\\
+      u = \frac{d}{dt}y \\
       \frac{d}{dt}u=y
     \end{array}
   \right. \\
