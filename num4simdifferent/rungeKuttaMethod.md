@@ -5,15 +5,13 @@ rungeKuttaMethod
 ## 使い方
 
 ```math
-\begin{eqnarray}
-  \left\{
-    \begin{array}
-      u=\frac{d}{dt}y\\
-      \frac{d}{dt}u=y
-    \end{array}
-  \right.
-\end{eqnarray}
-  y(0)=1.0 u(0)=1.0
+\left\{
+  \begin{aligned}
+    u&=&\frac{d}{dt}y \\
+    \frac{d}{dt}u&=&y
+  \end{aligned}
+\right.
+y(0)=u(0)=1.0
 ```
 上記の一次連立常微分方程式を4次のルンゲ＝クッタ法による解法
 
