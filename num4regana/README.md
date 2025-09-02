@@ -54,3 +54,4 @@ num4regana
           - 傾向スコアマッチング(PSM)
           - 逆確率重み付け推定(IPW)
         - [DID(Differene in Difference)](did.md)
+        - [回帰不連続デザイン(RDD)](rdd.md)
