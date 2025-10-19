@@ -33,7 +33,7 @@ num4tststatistic2
       - [マン・ホイットニーのU検定](utest.md)
       - [ウィルコクス符号付き順位検定](wilcoxontest.md)
       - [コルモゴルフ・スミルノフ検定(2標本)](ks2test.md)
-    * [外れ値検定(outlier.md)
+    * [外れ値検定](outlier.md)
       - [グラプス・スミルノフの外れ値の検定量](grubbs.md)
       - [エラーバー出力](errbar.md)
     * [相関係数検定](corre.md)
