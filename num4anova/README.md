@@ -20,22 +20,22 @@ num4anova
       * パラメトリック検定
         - [turkeyの方法による多重比較](turkey_test.md)
         - [ボンフェロー二の不等式による多重比較(T検定)](bonferrono_test.md)
-        - [Dunnet検定](dunnet_test.md)
+        - [Dunnet検定](dunnet.md)
           - 両側検定
           - 左側検定
           - 右側検定
       * ノンパラメトリック検定
         - [ボンフェロー二の不等式による多重比較(U検定)](bonferrono_test.md)
     * 分散分析
-      * 一元配置の分散分析
+      * [一元配置の分散分析](oneway.md)
         - [箱ひげ図](boxWhiskerPlot.md)
         - [一元散布図](oneway_scatter_plot.md)
         - [一元配置分散分析](oneway_anova.md)
-        - [バートレット検定](bartlet.md)
+        - [バートレット検定(等分散性の検定)](bartlet.md)
         - [反復測定図](replicate_plot.md)
-        - [反復測定検定](replicate_test.md)
+        - [反復測定による一元配置の分散分析](replicate_test.md)
         - [クラスカル・ウォリスの検定](kruskalwallis_test.md)
-      * 二元配置の分散分析
+      * [二元配置の分散分析](twoway.md)
         - [二次元分散分析(繰り返し数が等しい時)](twoway_anova.md)
         - [二次元分散分析(繰り返しなし)](twoway2_anova.md)
         - [フリードマン検定](friedman_test.md)
