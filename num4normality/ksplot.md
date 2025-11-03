@@ -9,3 +9,9 @@ xi = [320, 240, 402, 325, 440, 286, 362, 281, 560, 212, 198, 209, 374]
 Num4NormalityLib.ksplot("LDH", xi)
 ```
 
+## 出力サンプル
+
+![ksplot](images/ksplot.jpeg)
+
+
+
