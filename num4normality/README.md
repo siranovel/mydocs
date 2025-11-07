@@ -26,7 +26,7 @@ num4normality
 
 |検定方法(両側検定のみ)                    |N範囲(サンプルサイズ|
 |-----------------------------------------|------------------|
-|[Kolmogorov-Smirnov]((kstest.md)         |N<100             |
+|[Kolmogorov-Smirnov](kstest.md)         |N<100             |
 |Lillefors                                |4<N≦100,2000≦N  |
 |[Anderson-Darling](adtest.md)            |5000≦N           |
 |[タコスディーノ検定(歪度)](skewnesstest.md)|4≦N              |
