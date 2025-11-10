@@ -45,4 +45,9 @@ num4tststatistic2
         - [ピアソン相関係数](pearsoCorrelation.md)
         - [スピアマンの順位相関係数](spearmanscorr.md)
         - [ケンドールの順位相関係数](kendallscorr.md)
+      * [差の母相関係数の検定](diff_popu_corre.md)
+        - [ピアソン相関係数](pearsoCorrelation.md)
+        - [スピアマンの順位相関係数](spearmanscorr.md)
+        - [ケンドールの順位相関係数](kendallscorr.md)
+
 
