@@ -49,11 +49,11 @@ mydocs
 |[mongodbtool](mongodbtool/)           |mongoDBに、commons-math3を利用して、分布表のデータをmongodbに格納ツール。|
 |[distgraph](distgraph/)               |commons-math3を利用して、各分布のグラフを表示するプログラム              |
 |[probality](probablty/)               |確率・統計の勉強用                                                     |
+|[num4normality](num4normality)        |正規性の検定                                            |
 |[num4hypothtst](num4hypothtst)        |統計的仮設検定のためのライブラリ                                        |
 |[num4tststatistic](num4tststatistic)  |検定統計量の計算                                                       |
-|[num4normality](num4normality)        |正規性の検定                                            |
-|[num4anova](num4anova)                |分散分析                                              |
 |[num4tststatistic2](num4tststatistic2)|統計的仮説検定(num4tststatistic & num4hypothtstの統合)      |
+|[num4anova](num4anova)                |分散分析                                              |
 |[num4difftest](num4difftest)          |母平均の差の検定                                          |
 |[num4regana](num4regana)              |数値計算による回帰分析を行う                                    |
 
