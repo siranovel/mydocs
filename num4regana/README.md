@@ -49,7 +49,7 @@ num4regana
         - [ポアソン回帰分析](PoissonHierBayesRegAna.md)
           - 非線形回帰分析
       * 効果検証
-        - [単回帰による効果推定](smple_line_reg_ana.md)
+        - [単回帰による効果推定](efect4simple.md)
         - [傾向スコアによる効果推定](propen_score.md)
           - 傾向スコアマッチング(PSM)
           - 逆確率重み付け推定(IPW)
