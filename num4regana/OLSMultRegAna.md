@@ -113,21 +113,21 @@ regana.getvif(olsxij)
 ### AIC(赤池の情報基準)の場合
 
 ```ruby
-        #   olsyi = [45, 38, 41, 34, 59, 47, 35, 43, 54, 52]
-        #   olsxij = [
-        #       [17.5, 30],
-        #       [17.0, 25],
-        #       [18.5, 20],
-        #       [16.0, 30],
-        #       [19.0, 45],
-        #       [19.5, 35],
-        #       [16.0, 25],
-        #       [18.0, 35],
-        #       [19.0, 35],
-        #       [19.5, 40],
-        #   ]
-        #   regana = Num4RegAnaLib::OLSMultRegAnaLib.new
-        #   regana.getaic(olsyi, olsxij)
+olsyi = [45, 38, 41, 34, 59, 47, 35, 43, 54, 52]
+olsxij = [
+    [17.5, 30],
+    [17.0, 25],
+    [18.5, 20],
+    [16.0, 30],
+    [19.0, 45],
+    [19.5, 35],
+    [16.0, 25],
+    [18.0, 35],
+    [19.0, 35],
+    [19.5, 40],
+]
+regana = Num4RegAnaLib::OLSMultRegAnaLib.new
+regana.getaic(olsyi, olsxij)
 ```
 
 
