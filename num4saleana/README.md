@@ -1,4 +1,4 @@
-num4anova
+num4saleana
 ===========
 1. 目的
 
