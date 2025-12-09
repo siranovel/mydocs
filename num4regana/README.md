@@ -28,6 +28,8 @@ num4regana
           - 自由度調整済み決定係数
           - VIF(Variance Inflation Factor)
           - AIC(赤池の情報基準)
+      * [部分的最小二乗回帰分析(PLS)](PLSMultRegAna.md)
+          - 重回帰分析
       * 一般化線形回帰分析
         - [(2項)ロジスティック回帰分析](LogitRegAna.md)
           - 非線形回帰分析
